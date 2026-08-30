@@ -1,0 +1,21 @@
+{
+  "name": "ubiquiti-photos",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "tsx download-in-the-box.ts",
+    "fetch:force": "tsx download-in-the-box.ts --force",
+    "orders": "tsx collect-ordered-products.ts"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "pdf-lib": "^1.17.1",
+    "playwright": "^1.55.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.18.3",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}

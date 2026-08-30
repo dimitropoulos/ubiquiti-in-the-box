@@ -1,0 +1,698 @@
+items:
+  https://store.ui.com/us/en/category/physical-security-ptz/products/uvc-g6-ptz?variant=uvc-g6-ptz-w:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-ptz/products/uvc-g6-ptz?variant=uvc-g6-ptz-w
+    productSlug: uvc-g6-ptz-w
+    productTitle: Camera G6 PTZ
+    productName: UVC-G6-PTZ
+    productIdDisplay: UVC-G6-PTZ
+    productDescription: >-
+      All-weather, 4K dual-lens camera with 10x hybrid zoom, 1/1.8" 8MP image sensor, Multi-TOPS AI Engine, and
+      ultra-low latency pan-tilt-zoom control for motion tracking.
+    productId: 8b0777b6-851e-45f8-b4d2-b98b598c1ebc
+    selectedVariantSlug: uvc-g6-ptz-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/8b0777b6-851e-45f8-b4d2-b98b598c1ebc/7c3872c2-b902-4846-a299-34ad0b71afb6.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 1060
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:30.243Z'
+  https://store.ui.com/us/en/category/accessories-installations/products/uacc-ai-speaker-fm?variant=uacc-ai-speaker-fm:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/accessories-installations/products/uacc-ai-speaker-fm?variant=uacc-ai-speaker-fm
+    productSlug: uacc-ai-speaker-fm
+    productTitle: AI Speaker Flush Mount
+    productName: UACC-AI-Speaker-FM
+    productIdDisplay: UACC-AI-Speaker-FM
+    productDescription: Flush mount accessory for AI Speaker that enables near-invisible, recessed installation.
+    productId: 766155a8-83b1-4c57-9fc7-7d5f523ac431
+    selectedVariantSlug: uacc-ai-speaker-fm
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/766155a8-83b1-4c57-9fc7-7d5f523ac431/618509fd-e300-4172-9fde-f7989bf26c4a.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 600
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:30.987Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-ai-speaker?variant=up-ai-speaker:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-ai-speaker?variant=up-ai-speaker
+    productSlug: up-ai-speaker
+    productTitle: AI Speaker
+    productName: UP-AI-Speaker
+    productIdDisplay: UP-AI-Speaker
+    productDescription: Indoor 100 dB PoE speaker with AI alerts and flexible surface or flush mounting.
+    productId: a856b284-20e3-49d4-acd3-2eee5c4f0f13
+    selectedVariantSlug: up-ai-speaker
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/a856b284-20e3-49d4-acd3-2eee5c4f0f13/c8ca591b-6789-4a8d-a92d-4d243a43069f.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 600
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:31.157Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-relay?variant=usl-relay-us:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-relay?variant=usl-relay-us
+    productSlug: usl-relay-us
+    productTitle: Protect Relay
+    productName: USL-Relay
+    productIdDisplay: USL-Relay
+    productDescription: >-
+      Compact SuperLink relay designed with I/O interfaces for seamless integration with third-party sensors and
+      signaling devices.
+    productId: 7cb4be32-648c-4d30-bbf1-c48141362852
+    selectedVariantSlug: usl-relay-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/7cb4be32-648c-4d30-bbf1-c48141362852/a0fccea7-f804-48f5-ad6a-76d22ed5ba6e.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 600
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:34.665Z'
+  https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-sfp-wizard?variant=uacc-sfp-wizard:
+    sourceUrl: https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-sfp-wizard?variant=uacc-sfp-wizard
+    productSlug: uacc-sfp-wizard
+    productTitle: SFP Wizard
+    productName: UACC-SFP-Wizard
+    productIdDisplay: UACC-SFP-Wizard
+    productDescription: >-
+      Instantly reprogram, test, and unlock universal compatibility for every optical module — with full diagnostics and
+      OTA updates built in.
+    productId: c173c693-c05c-4d8a-ba86-e544fbe42633
+    selectedVariantSlug: uacc-sfp-wizard
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/c173c693-c05c-4d8a-ba86-e544fbe42633/ed3c344c-e0b1-4287-8016-ee3de6b82825.png
+    inTheBoxWidth: 2000
+    inTheBoxHeight: 730
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:35.015Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/uacc-usl-ant-hg?variant=uacc-usl-ant-hg:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/uacc-usl-ant-hg?variant=uacc-usl-ant-hg
+    productSlug: uacc-usl-ant-hg
+    productTitle: SuperLink High-Gain Antenna
+    productName: UACC-USL-ANT-HG
+    productIdDisplay: UACC-USL-ANT-HG
+    productDescription: >-
+      High-gain, omnidirectional antenna with an IP67-rated outdoor enclosure, built to extend SuperLink range in all
+      weather conditions.
+    productId: 1919d550-1fe1-4259-a8f1-514bba584015
+    selectedVariantSlug: uacc-usl-ant-hg
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/1919d550-1fe1-4259-a8f1-514bba584015/e6f85e50-84e6-41c4-ae51-2703fb0c0a5a.png
+    inTheBoxWidth: 2000
+    inTheBoxHeight: 700
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:35.224Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-ai-horn-speaker?variant=up-ai-horn-speaker-w:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-ai-horn-speaker?variant=up-ai-horn-speaker-w
+    productSlug: up-ai-horn-speaker-w
+    productTitle: AI Horn Speaker
+    productName: UP-AI-Horn-Speaker
+    productIdDisplay: UP-AI-Horn-Speaker
+    productDescription: >-
+      All-weather PoE 120 dB horn speaker with advanced AI alert functionality and versatile wall and pole mounting
+      options.
+    productId: b5480cf5-4bfd-472e-b228-c2df94f9c263
+    selectedVariantSlug: up-ai-horn-speaker-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/b5480cf5-4bfd-472e-b228-c2df94f9c263/bb772d8e-ecfb-4a41-bd26-b3fc7ff53f8c.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 1040
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:35.404Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-gateway?variant=usl-gateway-us:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-gateway?variant=usl-gateway-us
+    productSlug: usl-gateway-us
+    productTitle: SuperLink Gateway
+    productName: USL-Gateway
+    productIdDisplay: USL-Gateway
+    productDescription: Proprietary super long-range, low-latency wireless gateway for UniFi Protect Sensors.
+    productId: 0538991d-6168-429b-8ea2-8408dac7357a
+    selectedVariantSlug: usl-gateway-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/0538991d-6168-429b-8ea2-8408dac7357a/d8c2076e-03b0-42bc-a133-5f692a9715e0.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 745
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:35.710Z'
+  https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-24-poe?variant=usw-pro-max-24-poe:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-24-poe?variant=usw-pro-max-24-poe
+    productSlug: usw-pro-max-24-poe
+    productTitle: Switch Pro Max 24 PoE
+    productName: USW-Pro-Max-24-PoE
+    productIdDisplay: USW-Pro-Max-24-PoE (400W)
+    productDescription: A 24-port, Layer 3 Etherlighting™ switch capable of high-power PoE++ output.
+    productId: 58922518-88f6-4c75-89c1-f57ba3d8253a
+    selectedVariantSlug: usw-pro-max-24-poe
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/58922518-88f6-4c75-89c1-f57ba3d8253a/9da3459c-eee9-441f-ac25-dcd3d4477e43.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 767
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:36.458Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-fob?variant=usl-fob-us:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-fob?variant=usl-fob-us
+    productSlug: usl-fob-us
+    productTitle: Remote Control KeyFob
+    productName: USL-FOB
+    productIdDisplay: USL-FOB
+    productDescription: >-
+      SuperLink key fob for instant programmable actions across your UniFi deployment, with up to 10 years of battery
+      life.
+    productId: c96ceadd-2b0f-4eea-86e0-255c8280504e
+    selectedVariantSlug: usl-fob-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/c96ceadd-2b0f-4eea-86e0-255c8280504e/14ac5c83-8eab-4d64-ac9e-091f7a80f7a7.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 650
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:36.635Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-entry?variant=usl-entry-3-us:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-entry?variant=usl-entry-3-us
+    productSlug: usl-entry-3-us
+    productTitle: Entry Sensor
+    productName: USL-Entry
+    productIdDisplay: USL-Entry
+    productDescription: SuperLink sensor with up to 6-year battery life for monitoring door and window open/closed status.
+    productId: 8f00f4cc-caea-427b-ac4f-40a5d59022a7
+    selectedVariantSlug: usl-entry-3-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/8f00f4cc-caea-427b-ac4f-40a5d59022a7/7d8789cf-3bb2-45bc-af44-741c6f31dc5b.png
+    inTheBoxWidth: 2000
+    inTheBoxHeight: 700
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:37.718Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-environmental?variant=usl-environmental-us:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-environmental?variant=usl-environmental-us
+    productSlug: usl-environmental-us
+    productTitle: Environmental Sensor
+    productName: USL-Environmental
+    productIdDisplay: USL-Environmental
+    productDescription: Battery-powered SuperLink sensor that detects water leaks, temperature, humidity, and ambient light.
+    productId: 8b170b88-1dbb-4d97-8fb5-8ee4ece1cb54
+    selectedVariantSlug: usl-environmental-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/8b170b88-1dbb-4d97-8fb5-8ee4ece1cb54/92e3c491-345e-40b1-8ef8-c84ab4bc76b3.png
+    inTheBoxWidth: 2000
+    inTheBoxHeight: 700
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:37.921Z'
+  https://store.ui.com/us/en/category/cloud-gateways-large-scale/products/udm-beast?variant=udm-beast:
+    sourceUrl: https://store.ui.com/us/en/category/cloud-gateways-large-scale/products/udm-beast?variant=udm-beast
+    productSlug: udm-beast
+    productTitle: Dream Machine Beast
+    productName: UDM-Beast
+    productIdDisplay: UDM-Beast
+    productDescription: >-
+      Hyperscale-class Cloud Gateway delivering 25 Gbps IPS/IDS, 7,500+ client capacity, and the full UniFi application
+      platform in one system.
+    productId: 352e353d-16e7-45b5-805e-712848145c65
+    selectedVariantSlug: udm-beast
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/352e353d-16e7-45b5-805e-712848145c65/b7819e40-0273-48b5-b68b-6e4bd94698ba.png
+    inTheBoxWidth: 3000
+    inTheBoxHeight: 1500
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:38.119Z'
+  https://store.ui.com/us/en/category/switching-utility/products/uacc-flex-utility-pro?variant=uacc-flex-utility-pro:
+    sourceUrl: https://store.ui.com/us/en/category/switching-utility/products/uacc-flex-utility-pro?variant=uacc-flex-utility-pro
+    productSlug: uacc-flex-utility-pro
+    productTitle: Flex Utility Pro
+    productName: UACC-Flex-Utility-Pro
+    productIdDisplay: UACC-Flex-Utility-Pro
+    productDescription: >-
+      A universal outdoor weatherproof enclosure. Protect your networking gear in any environment with this versatile,
+      durable enclosure, designed for both wall and pole mounting.
+    productId: 1ace6299-aa9e-43c3-acb5-9af7f946dd11
+    selectedVariantSlug: uacc-flex-utility-pro
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/1ace6299-aa9e-43c3-acb5-9af7f946dd11/052102c5-921c-43b1-ad50-dd8d7d7da9db.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 899
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:38.328Z'
+  https://store.ui.com/us/en/category/accessories-camera/products/uacc-g5-ptz-cm?variant=uacc-g5-ptz-cm:
+    sourceUrl: https://store.ui.com/us/en/category/accessories-camera/products/uacc-g5-ptz-cm?variant=uacc-g5-ptz-cm
+    productSlug: uacc-g5-ptz-cm
+    productTitle: G6/G5 PTZ Corner Mount
+    productName: UACC-G5-PTZ-CM
+    productIdDisplay: UACC-G5-PTZ-CM
+    productDescription: Corner mount accessory for G6/G5 PTZ.
+    productId: 80545126-86d7-4023-9fd4-d0f1480db3c4
+    selectedVariantSlug: uacc-g5-ptz-cm
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/80545126-86d7-4023-9fd4-d0f1480db3c4/c82dcdf8-fffc-43a6-ab5f-6748be354003.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 600
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:39.061Z'
+  https://store.ui.com/us/en/category/accessories-camera/products/uacc-g6-180-pm?variant=uacc-g6-180-pm-b:
+    sourceUrl: https://store.ui.com/us/en/category/accessories-camera/products/uacc-g6-180-pm?variant=uacc-g6-180-pm-b
+    productSlug: uacc-g6-180-pm-b
+    productTitle: G6 180 Camera Pendant Mount
+    productName: UACC-G6-180-PM
+    productIdDisplay: UACC-G6-180-PM
+    productDescription: Pendant mount for suspending the G6 180 Camera from ceilings or overhead structures.
+    productId: 4c2edbd7-8fa9-4e69-9bad-64be1c56b2be
+    selectedVariantSlug: uacc-g6-180-pm-b
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/4c2edbd7-8fa9-4e69-9bad-64be1c56b2be/aaf38239-82e1-4414-ab42-d9b48d003b65.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 650
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:39.512Z'
+  https://store.ui.com/us/en/category/physical-security-dome-turret/products/uvc-g5-turret-ultra?variant=uvc-g5-turret-ultra:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/physical-security-dome-turret/products/uvc-g5-turret-ultra?variant=uvc-g5-turret-ultra
+    productSlug: uvc-g5-turret-ultra
+    productTitle: Camera G5 Turret Ultra
+    productName: UVC-G5-Turret-Ultra
+    productIdDisplay: UVC-G5-Turret-Ultra
+    productDescription: Ultra-compact, tamper-resistant, and weatherproof 2K HD PoE camera with long-range night vision.
+    productId: 54f9bb29-40b8-4dac-9b1c-7ccf0e303aa5
+    selectedVariantSlug: uvc-g5-turret-ultra
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/54f9bb29-40b8-4dac-9b1c-7ccf0e303aa5/74562584-f95c-4038-bbed-40c2309decbf.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 788
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:39.748Z'
+  https://store.ui.com/us/en/category/physical-security-dome-turret/products/uvc-g6-180?variant=uvc-g6-180-b:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-dome-turret/products/uvc-g6-180?variant=uvc-g6-180-b
+    productSlug: uvc-g6-180-b
+    productTitle: Camera G6 180
+    productName: UVC-G6-180
+    productIdDisplay: UVC-G6-180
+    productDescription: Indoor/outdoor dual sensor 16MP 20 FPS PoE+ camera, with a Multi-TOPS AI Engine and panoramic 180° coverage.
+    productId: c2196251-739c-43d0-b840-567a732cd7ef
+    selectedVariantSlug: uvc-g6-180-b
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/c2196251-739c-43d0-b840-567a732cd7ef/b2bc4fee-29ea-469b-90cd-29608d6bbab9.png
+    inTheBoxWidth: 3000
+    inTheBoxHeight: 1780
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:40.553Z'
+  https://store.ui.com/us/en/category/accessories-poe-power/products/uacc-adapter-ac-210w?variant=uacc-adapter-ac-210w:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/accessories-poe-power/products/uacc-adapter-ac-210w?variant=uacc-adapter-ac-210w
+    productSlug: uacc-adapter-ac-210w
+    productTitle: AC Adapter 210W
+    productName: UACC-Adapter-AC-210W
+    productIdDisplay: UACC-Adapter-AC-210W
+    productDescription: An AC power adapter delivers 210W at 54V DC for a PoE switch.
+    productId: 9e9ef3ba-4cc7-4362-a76e-13322f1c3d61
+    selectedVariantSlug: uacc-adapter-ac-210w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/9e9ef3ba-4cc7-4362-a76e-13322f1c3d61/c9586629-f2e8-4557-be1a-c76977d0380c.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 600
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:40.784Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-siren-poe?variant=up-siren-poe:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-siren-poe?variant=up-siren-poe
+    productSlug: up-siren-poe
+    productTitle: Siren PoE
+    productName: UP-Siren-PoE
+    productIdDisplay: UP-Siren-PoE
+    productDescription: All-weather siren delivering 110 dB alarm and emergency LED lighting powered using PoE input.
+    productId: 16e3f753-e65e-42ff-9913-aa89ae78bcfc
+    selectedVariantSlug: up-siren-poe
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/16e3f753-e65e-42ff-9913-aa89ae78bcfc/25ec9c18-52b5-49e1-bd14-27a52fc92510.png
+    inTheBoxWidth: 2000
+    inTheBoxHeight: 700
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:41.036Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-siren?variant=usl-siren-us:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-siren?variant=usl-siren-us
+    productSlug: usl-siren-us
+    productTitle: Siren
+    productName: USL-Siren
+    productIdDisplay: USL-Siren
+    productDescription: All-weather SuperLink siren delivering 110 dB alarm and emergency LED lighting powered using battery or DC input.
+    productId: 9e8f7df8-33c3-4d4f-ade7-73535329a44d
+    selectedVariantSlug: usl-siren-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/9e8f7df8-33c3-4d4f-ade7-73535329a44d/050ee8ca-6c67-403c-b8eb-dd89ef4198b7.png
+    inTheBoxWidth: 2000
+    inTheBoxHeight: 700
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:41.325Z'
+  https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-8-poe?variant=usw-flex-2dot5g-8-poe:
+    sourceUrl: https://store.ui.com/us/en/category/switching-utility/products/usw-flex-2-5g-8-poe?variant=usw-flex-2dot5g-8-poe
+    productSlug: usw-flex-2dot5g-8-poe
+    productTitle: Switch Flex 2.5G PoE
+    productName: USW-Flex-2.5G-8-PoE
+    productIdDisplay: USW-Flex-2.5G-8-PoE (196W)
+    productDescription: >-
+      Flexible, 8-port 2.5 GbE PoE++ switch with a 10 GbE RJ45/SFP+ combination uplink port that can be powered with
+      PoE+++ or an AC power adapter.
+    productId: e9d97121-f363-4261-83db-5f74e093a304
+    selectedVariantSlug: usw-flex-2dot5g-8-poe
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/e9d97121-f363-4261-83db-5f74e093a304/e2da7084-1f22-42f2-a29f-d883ab134164.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 933
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:41.497Z'
+  https://store.ui.com/us/en/category/door-access-hub/products/ua-hub-gate?variant=ua-hub-gate:
+    sourceUrl: https://store.ui.com/us/en/category/door-access-hub/products/ua-hub-gate?variant=ua-hub-gate
+    productSlug: ua-hub-gate
+    productTitle: Access Gate Hub
+    productName: UA-Hub-Gate
+    productIdDisplay: UA-Hub-Gate
+    productDescription: An advanced Gate Hub enabling seamless gate access control via connected Access readers or Intercom.
+    productId: 5fa9cf68-2fd3-401d-ba24-6809df0f6419
+    selectedVariantSlug: ua-hub-gate
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/5fa9cf68-2fd3-401d-ba24-6809df0f6419/18b4d402-1eea-414a-90ee-24b1d2b1b16e.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 955
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:43.051Z'
+  https://store.ui.com/us/en/category/door-access-intercoms/products/ua-g3-intercom?variant=ua-g3-intercom:
+    sourceUrl: https://store.ui.com/us/en/category/door-access-intercoms/products/ua-g3-intercom?variant=ua-g3-intercom
+    productSlug: ua-g3-intercom
+    productTitle: Access G3 Intercom
+    productName: UA-G3-Intercom
+    productIdDisplay: UA-G3-Intercom
+    productDescription: >-
+      Indoor/outdoor intercom terminal for managing residential and commercial building entry requests with Touch Pass
+      support.
+    productId: 2bcf8908-1240-45e1-843d-1648447c657b
+    selectedVariantSlug: ua-g3-intercom
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/2bcf8908-1240-45e1-843d-1648447c657b/38a6246a-892c-4b85-8bdd-6957c25f1eca.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 860
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:43.403Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-superlink?variant=usl-gateway-us:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-superlink?variant=usl-gateway-us
+    productSlug: usl-gateway-us
+    productTitle: SuperLink Gateway
+    productName: USL-Gateway
+    productIdDisplay: USL-Gateway
+    productDescription: Proprietary super long-range, low-latency wireless gateway for UniFi Protect Sensors.
+    productId: 0538991d-6168-429b-8ea2-8408dac7357a
+    selectedVariantSlug: usl-gateway-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/0538991d-6168-429b-8ea2-8408dac7357a/d8c2076e-03b0-42bc-a133-5f692a9715e0.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 745
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:43.689Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-motion?variant=usl-motion-us:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/usl-motion?variant=usl-motion-us
+    productSlug: usl-motion-us
+    productTitle: Motion Sensor
+    productName: USL-Motion
+    productIdDisplay: USL-Motion
+    productDescription: SuperLink motion sensor designed for versatile installation, delivering up to 6 years of battery life.
+    productId: 29101d97-a5b4-41e2-97ab-7457b354c7e9
+    selectedVariantSlug: usl-motion-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/29101d97-a5b4-41e2-97ab-7457b354c7e9/9fa434d3-3b63-4008-ba56-55d8862106ca.png
+    inTheBoxWidth: 2000
+    inTheBoxHeight: 700
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:43.858Z'
+  https://store.ui.com/us/en/category/switching-aggregation/products/usw-pro-aggregation?variant=usw-pro-aggregation:
+    sourceUrl: https://store.ui.com/us/en/category/switching-aggregation/products/usw-pro-aggregation?variant=usw-pro-aggregation
+    productSlug: usw-pro-aggregation
+    productTitle: Switch Hi-Capacity Aggregation
+    productName: USW-Pro-Aggregation
+    productIdDisplay: USW-Pro-Aggregation
+    productDescription: A 32-port, Layer 3 switch made for high-capacity 10G SFP+ and 25G SFP28 connections.
+    productId: 35879d83-6169-4d6b-abf6-d3b98b1e8367
+    selectedVariantSlug: usw-pro-aggregation
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/35879d83-6169-4d6b-abf6-d3b98b1e8367/699231e7-5ef6-4198-a559-415f6de37403.png
+    inTheBoxWidth: 1960
+    inTheBoxHeight: 1198
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:45.946Z'
+  https://store.ui.com/us/en/category/accessories-door-access/products/uacc-junction-utility?variant=uacc-junction-utility:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/accessories-door-access/products/uacc-junction-utility?variant=uacc-junction-utility
+    productSlug: uacc-junction-utility
+    productTitle: Access Junction Utility
+    productName: UACC-Junction-Utility
+    productIdDisplay: UACC-Junction-Utility
+    productDescription: An indoor/outdoor enclosure designed for UniFi Access Hubs, switches, and accessories.
+    productId: 7c58b154-497d-4d25-b373-3cc3fdd2816f
+    selectedVariantSlug: uacc-junction-utility
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/7c58b154-497d-4d25-b373-3cc3fdd2816f/9741e215-1439-414a-a451-ebfb1ad252c1.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 950
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:46.415Z'
+  https://store.ui.com/us/en/category/accessories-camera/products/uacc-bullet-ab?variant=uacc-bullet-ab-w:
+    sourceUrl: https://store.ui.com/us/en/category/accessories-camera/products/uacc-bullet-ab?variant=uacc-bullet-ab-w
+    productSlug: uacc-bullet-ab-w
+    productTitle: Bullet Camera Adjustable Angled Base
+    productName: UACC-Bullet-AB
+    productIdDisplay: UACC-Bullet-AB
+    productDescription: Bullet camera mounting accessory that enhances tilt angle by 22° to achieve an unrestricted viewing angle.
+    productId: 4d7d6c33-27e5-4983-b056-37978b5e0e5e
+    selectedVariantSlug: uacc-bullet-ab-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/4d7d6c33-27e5-4983-b056-37978b5e0e5e/ee691116-1039-4c33-a61b-f980e02763bf.png
+    inTheBoxWidth: 3000
+    inTheBoxHeight: 1500
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:46.584Z'
+  https://store.ui.com/us/en/category/physical-security-bullet/products/uvc-g6-bullet?variant=uvc-g6-bullet-w:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-bullet/products/uvc-g6-bullet?variant=uvc-g6-bullet-w
+    productSlug: uvc-g6-bullet-w
+    productTitle: Camera G6 Bullet
+    productName: UVC-G6-Bullet
+    productIdDisplay: UVC-G6-Bullet
+    productDescription: All-weather 4K PoE camera with a 1/1.8" 8MP image sensor,  Multi-TOPS AI Engine, and long-range IR night vision.
+    productId: 5dc40311-0e08-4eaa-b901-472cc707b436
+    selectedVariantSlug: uvc-g6-bullet-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/5dc40311-0e08-4eaa-b901-472cc707b436/025c3b1f-9bb3-4743-b07b-5e16db6fe92e.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 770
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:46.977Z'
+  https://store.ui.com/us/en/category/physical-security-bullet/products/uvc-g6-pro-bullet?variant=uvc-g6-pro-bullet-w:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/physical-security-bullet/products/uvc-g6-pro-bullet?variant=uvc-g6-pro-bullet-w
+    productSlug: uvc-g6-pro-bullet-w
+    productTitle: Camera G6 Pro Bullet
+    productName: UVC-G6-Pro-Bullet
+    productIdDisplay: UVC-G6-Pro-Bullet
+    productDescription: >-
+      All-weather 4K PoE+ camera with a Multi-TOPS AI engine, 2.36x optical zoom, and a large 1/1.2" CMOS sensor for
+      exceptional low-light clarity and long-range IR night vision.
+    productId: c48d3ada-c223-4a2b-98f3-2bb55c3b1a11
+    selectedVariantSlug: uvc-g6-pro-bullet-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/c48d3ada-c223-4a2b-98f3-2bb55c3b1a11/e78b2e1e-888e-43f6-be7f-ab72f00db71c.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 1075
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:47.199Z'
+  https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-superlink?variant=up-superlink-us:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-sensors-alarms/products/up-superlink?variant=up-superlink-us
+    productSlug: up-superlink-us
+    productTitle: SuperLink Gateway
+    productName: USL-Gateway
+    productIdDisplay: USL-Gateway
+    productDescription: Proprietary super long-range, low-latency wireless gateway for UniFi Protect Sensors.
+    productId: 0538991d-6168-429b-8ea2-8408dac7357a
+    selectedVariantSlug: up-superlink-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/0538991d-6168-429b-8ea2-8408dac7357a/d8c2076e-03b0-42bc-a133-5f692a9715e0.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 745
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:47.474Z'
+  https://store.ui.com/us/en/category/accessories-camera/products/uacc-ai-theta-angle-mount-camera?variant=uacc-ai-theta-angle-mount-camera:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/accessories-camera/products/uacc-ai-theta-angle-mount-camera?variant=uacc-ai-theta-angle-mount-camera
+    productSlug: uacc-ai-theta-angle-mount-camera
+    productTitle: AI Theta Angle Mount
+    productName: UACC-AI-Theta-Angle Mount-Camera
+    productIdDisplay: UACC-AI-Theta-Angle Mount-Camera
+    productDescription: Angled ceiling mount for AI Theta Standard Lenses.
+    productId: 149aa8ae-a41a-4ed9-acf7-42843de2a644
+    selectedVariantSlug: uacc-ai-theta-angle-mount-camera
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/149aa8ae-a41a-4ed9-acf7-42843de2a644/e438feb0-b0f6-4806-82cd-eec23f6b72d4.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 550
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:49.014Z'
+  https://store.ui.com/us/en/category/physical-security-compact/products/uvc-ai-theta?variant=uvc-ai-theta:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-compact/products/uvc-ai-theta?variant=uvc-ai-theta
+    productSlug: uvc-ai-theta
+    productTitle: Camera AI Theta
+    productName: UVC-AI-Theta
+    productIdDisplay: UVC-AI-Theta
+    productDescription: A complete AI Theta system that discreetly secures any space while maintaining a warm and inviting atmosphere.
+    productId: 81578fff-57b1-4c6c-88c9-facf57670f7f
+    selectedVariantSlug: uvc-ai-theta
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/81578fff-57b1-4c6c-88c9-facf57670f7f/26796cc0-81cb-40b6-98b7-064bcd2255d6.png
+    inTheBoxWidth: 1960
+    inTheBoxHeight: 1198
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:49.616Z'
+  https://store.ui.com/us/en/category/physical-security-nvr/products/envr?variant=envr:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-nvr/products/envr?variant=envr
+    productSlug: envr
+    productTitle: Enterprise NVR
+    productName: ENVR
+    productIdDisplay: ENVR
+    productDescription: 3U NVR with (16) 2.5/3.5” drive bays, supporting up to (70) 4K cameras or (210) Full HD cameras.
+    productId: 69d591b5-0c1b-4b75-9361-0f3237df94a7
+    selectedVariantSlug: envr
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/69d591b5-0c1b-4b75-9361-0f3237df94a7/2ab7d445-1713-4114-b828-fd73f58f01a1.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 1093
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:50.022Z'
+  https://store.ui.com/us/en/category/accessories-camera/products/uacc-dome-ws?variant=uacc-ai-pro-dome-ws-w:
+    sourceUrl: https://store.ui.com/us/en/category/accessories-camera/products/uacc-dome-ws?variant=uacc-ai-pro-dome-ws-w
+    productSlug: uacc-ai-pro-dome-ws-w
+    productTitle: Dome Camera Weather Shield
+    productName: UACC-Dome-WS
+    productIdDisplay: UACC-Dome-WS
+    productDescription: >-
+      Dome camera accessory for optimal image quality and protection from the elements when installed outdoors on a wall
+      or pole.
+    productId: 9640b40d-0c58-4e5e-bdf9-47a3a4b16e32
+    selectedVariantSlug: uacc-ai-pro-dome-ws-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/9640b40d-0c58-4e5e-bdf9-47a3a4b16e32/72323680-c47e-41fa-bde9-657b26be3208.png
+    inTheBoxWidth: 3000
+    inTheBoxHeight: 1685
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:52.346Z'
+  https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16-poe?variant=usw-pro-max-16-poe:
+    sourceUrl: >-
+      https://store.ui.com/us/en/category/switching-professional-max-xg/products/usw-pro-max-16-poe?variant=usw-pro-max-16-poe
+    productSlug: usw-pro-max-16-poe
+    productTitle: Switch Pro Max 16 PoE
+    productName: USW-Pro-Max-16-PoE
+    productIdDisplay: USW-Pro-Max-16-PoE (180W)
+    productDescription: A 16-port, Layer 3 Etherlighting™ switch with 2.5 GbE, PoE++ output, and versatile mounting options.
+    productId: 0694226c-9791-4d7e-9fb1-d98c91fe3fda
+    selectedVariantSlug: usw-pro-max-16-poe
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/0694226c-9791-4d7e-9fb1-d98c91fe3fda/6a72fb70-30e0-4f23-b9f6-93a5529625be.png
+    inTheBoxWidth: 3000
+    inTheBoxHeight: 1855
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:52.765Z'
+  https://store.ui.com/us/en/category/wifi-bridging/products/udb-pro?variant=udb-pro-us:
+    sourceUrl: https://store.ui.com/us/en/category/wifi-bridging/products/udb-pro?variant=udb-pro-us
+    productSlug: udb-pro-us
+    productTitle: Device Bridge Pro
+    productName: UDB-Pro
+    productIdDisplay: UDB-Pro
+    productDescription: 5 GHz wireless bridge with PoE output that connects at 5+ km distances or seamlessly uplinks to UniFi WiFi.
+    productId: aa234654-23a1-49f8-89af-0eb41a2aec90
+    selectedVariantSlug: udb-pro-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/aa234654-23a1-49f8-89af-0eb41a2aec90/d5876059-cf88-4041-aa74-2c674f27d0cc.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 946
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:53.255Z'
+  https://store.ui.com/us/en/category/wifi-bridging/products/udb?variant=udb-us:
+    sourceUrl: https://store.ui.com/us/en/category/wifi-bridging/products/udb?variant=udb-us
+    productSlug: udb-us
+    productTitle: UniFi Device Bridge
+    productName: UDB
+    productIdDisplay: UDB
+    productDescription: Plug-and-play, wireless bridging PoE adapter with integrated UniFi WiFi Auto-Link.
+    productId: a2bd3a3b-2094-42b4-abd6-b0ea32bfd5f3
+    selectedVariantSlug: udb-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/a2bd3a3b-2094-42b4-abd6-b0ea32bfd5f3/0fae09fd-de81-467a-be98-ad595763bb9c.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 921
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:53.437Z'
+  https://store.ui.com/us/en/category/accessories-camera/products/uacc-camera-am?variant=uacc-camera-am-w:
+    sourceUrl: https://store.ui.com/us/en/category/accessories-camera/products/uacc-camera-am?variant=uacc-camera-am-w
+    productSlug: uacc-camera-am-w
+    productTitle: Camera Arm Mount
+    productName: UACC-Camera-AM
+    productIdDisplay: UACC-Camera-AM
+    productDescription: Arm mount accessory that attaches the UniFi Turret cameras to a wall, corner, or pole.
+    productId: b90efd2d-c3e7-401d-91df-2060034cb4fc
+    selectedVariantSlug: uacc-camera-am-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/b90efd2d-c3e7-401d-91df-2060034cb4fc/34592d10-0722-4821-aef1-5b0ad3c5b78a.png
+    inTheBoxWidth: 2000
+    inTheBoxHeight: 715
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:53.741Z'
+  https://store.ui.com/us/en/category/accessories-camera/products/uacc-g5-ptz-sm?variant=uacc-g5-ptz-sm:
+    sourceUrl: https://store.ui.com/us/en/category/accessories-camera/products/uacc-g5-ptz-sm?variant=uacc-g5-ptz-sm
+    productSlug: uacc-g5-ptz-sm
+    productTitle: G5 PTZ Surface Mount
+    productName: UACC-G5-PTZ-SM
+    productIdDisplay: UACC-G5-PTZ-SM
+    productDescription: Ceiling surface mount accessory for G5 PTZ.
+    productId: 2c719a5f-34fc-433d-a038-567047f4949d
+    selectedVariantSlug: uacc-g5-ptz-sm
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/2c719a5f-34fc-433d-a038-567047f4949d/13e225c8-7672-4997-ad2f-92cfc9f93e1e.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 600
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:54.804Z'
+  https://store.ui.com/us/en/category/physical-security-ptz/products/uvc-g5-ptz?variant=uvc-g5-ptz:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-ptz/products/uvc-g5-ptz?variant=uvc-g5-ptz
+    productSlug: uvc-g5-ptz
+    productTitle: Camera G5 PTZ
+    productName: UVC-G5-PTZ
+    productIdDisplay: UVC-G5-PTZ
+    productDescription: Compact, all-weather camera with ultra-low latency pan-tilt-zoom control and versatile mounting options.
+    productId: e3cbecf3-07dc-4f09-82e1-b88dca942d7a
+    selectedVariantSlug: uvc-g5-ptz
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/e3cbecf3-07dc-4f09-82e1-b88dca942d7a/e993fb2e-1833-49ed-853d-eeaae9eca390.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 839
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:55.733Z'
+  https://store.ui.com/us/en/category/accessories-camera/products/uacc-camera-dm?variant=uacc-camera-dm-w:
+    sourceUrl: https://store.ui.com/us/en/category/accessories-camera/products/uacc-camera-dm?variant=uacc-camera-dm-w
+    productSlug: uacc-camera-dm-w
+    productTitle: Camera Dual Mount
+    productName: UACC-Camera-DM
+    productIdDisplay: UACC-Camera-DM
+    productDescription: >-
+      Tamper-resistant, back-to-back mount for two UniFi Bullet, Dome, or Turret cameras that supports flat surface
+      installation and attachment to 1 1/2" NPS threaded conduit.
+    productId: 6a47c676-9075-4176-b4b3-3055b81fa1af
+    selectedVariantSlug: uacc-camera-dm-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/6a47c676-9075-4176-b4b3-3055b81fa1af/93752531-0090-4cfa-b115-591783130b50.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 773
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:55.899Z'
+  https://store.ui.com/us/en/category/physical-security-dome-turret/products/uvc-ai-360?variant=uvc-ai-360-w:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-dome-turret/products/uvc-ai-360?variant=uvc-ai-360-w
+    productSlug: uvc-ai-360-w
+    productTitle: Camera AI 360
+    productName: UVC-AI-360
+    productIdDisplay: UVC-AI-360
+    productDescription: Indoor/outdoor 2K PoE camera with pan-tilt-zoom functionality that offers full 360° surveillance.
+    productId: 509a3a6f-f6d1-4a62-962c-b42e33d4955d
+    selectedVariantSlug: uvc-ai-360-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/509a3a6f-f6d1-4a62-962c-b42e33d4955d/5eeb3de0-5391-4d04-8270-036edb68e0de.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 900
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:56.079Z'
+  https://store.ui.com/us/en/category/physical-security-dome-turret/products/uvc-ai-dome?variant=uvc-ai-dome-w:
+    sourceUrl: https://store.ui.com/us/en/category/physical-security-dome-turret/products/uvc-ai-dome?variant=uvc-ai-dome-w
+    productSlug: uvc-ai-dome-w
+    productTitle: Camera AI Dome
+    productName: UVC-AI-Dome
+    productIdDisplay: UVC-AI-Dome
+    productDescription: All-weather, vandal-proof 4K PoE dome camera with enhanced AI capabilities and long-range IR night vision.
+    productId: 1d22f247-f5bb-40ce-a465-5d885760f335
+    selectedVariantSlug: uvc-ai-dome-w
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/1d22f247-f5bb-40ce-a465-5d885760f335/0a01dc4a-11b5-4f1e-8943-bb24c26f59f0.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 969
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:56.290Z'
+  https://store.ui.com/us/en/category/wifi-outdoor/products/u7-outdoor?variant=u7-outdoor-us:
+    sourceUrl: https://store.ui.com/us/en/category/wifi-outdoor/products/u7-outdoor?variant=u7-outdoor-us
+    productSlug: u7-outdoor-us
+    productTitle: Access Point U7 Outdoor
+    productName: U7-Outdoor
+    productIdDisplay: U7-Outdoor
+    productDescription: >-
+      All-weather WiFi 7 AP with 4 spatial streams, an integrated directional super antenna, and versatile mounting
+      options.
+    productId: 62cc30b7-9559-480f-9668-b9edf40c0772
+    selectedVariantSlug: u7-outdoor-us
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/62cc30b7-9559-480f-9668-b9edf40c0772/4975bf95-649c-4db7-a40b-e518643819f3.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 805
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:56.465Z'
+  https://store.ui.com/us/en/category/switching-utility/products/usw-lite-8-poe?variant=usw-lite-8-poe:
+    sourceUrl: https://store.ui.com/us/en/category/switching-utility/products/usw-lite-8-poe?variant=usw-lite-8-poe
+    productSlug: usw-lite-8-poe
+    productTitle: Switch Lite 8 PoE
+    productName: USW-Lite-8-PoE
+    productIdDisplay: USW-Lite-8-PoE (52W)
+    productDescription: An 8-port, Layer 2 PoE switch supporting silent fanless cooling.
+    productId: 75c44878-4e73-446e-8e86-f207db6b2b7c
+    selectedVariantSlug: usw-lite-8-poe
+    inTheBoxOriginUrl: https://cdn.ecomm.ui.com/products/75c44878-4e73-446e-8e86-f207db6b2b7c/22680d40-b87c-46cc-988c-69a1f40da6e7.png
+    inTheBoxWidth: 1500
+    inTheBoxHeight: 896
+    inTheBoxMimeType: image/png
+    updatedAt: '2026-08-28T02:36:56.646Z'
