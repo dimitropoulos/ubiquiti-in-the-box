@@ -2,20 +2,31 @@
   "name": "ubiquiti-photos",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": "^26"
+  },
   "scripts": {
-    "fetch": "tsx download-in-the-box.ts",
-    "fetch:force": "tsx download-in-the-box.ts --force",
-    "orders": "tsx collect-ordered-products.ts"
+    "scrape": "node scrape-catalog.ts",
+    "scrape:force": "node scrape-catalog.ts --force",
+    "site:dev": "vite",
+    "site:build": "vite build",
+    "site": "node serve-site.mjs"
   },
   "dependencies": {
-    "js-yaml": "^4.1.0",
-    "pdf-lib": "^1.17.1",
-    "playwright": "^1.55.0"
+    "@base-ui/react": "^1.7.0",
+    "js-yaml": "5.4.1",
+    "pdf-lib": "1.17.1",
+    "playwright": "1.62.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",
-    "@types/node": "^22.18.3",
-    "tsx": "^4.20.5",
-    "typescript": "^5.9.2"
+    "@types/node": "^26.4.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^7.0.2",
+    "vite": "^6.0.0"
   }
 }

@@ -1,0 +1,4 @@
+# Product URLs to fetch manually, in addition to the automatic category crawl.
+# Useful for products that aren't (or are no longer) listed on a category page.
+# If a URL's model already has cached metadata and a downloaded image, it is skipped.
+- https://store.ui.com/us/en/products/uap-ac-pro
