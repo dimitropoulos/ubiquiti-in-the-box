@@ -1,0 +1,58 @@
+name: Update product catalog
+
+on:
+  schedule:
+    # 17:00 UTC daily
+    - cron: '0 17 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-catalog
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: package.json
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape catalog (relies on cache to avoid rate limiting)
+        run: pnpm run scrape
+
+      - name: Build full PDF
+        run: pnpm run pdf:full
+
+      - name: Build site
+        run: pnpm run build
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add product-cache.yaml images site/public/products.json in-the-box.pdf
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update product catalog"
+          git push

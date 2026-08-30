@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import fsp from 'node:fs/promises';
 import path from 'node:path';
 import { defineConfig, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
@@ -40,10 +41,30 @@ function serveRepoImages(): Plugin {
   };
 }
 
+// Static hosts (e.g. Cloudflare Pages) serve only the build output directory,
+// so copy the repo-root images/ into dist/images at build time.
+function copyImagesOnBuild(): Plugin {
+  return {
+    name: 'copy-images-on-build',
+    apply: 'build',
+    async closeBundle() {
+      const outDir = path.join(ROOT, 'site', 'dist', 'images');
+      await fsp.mkdir(outDir, { recursive: true });
+      const files = await fsp.readdir(IMAGES_DIR);
+      await Promise.all(files.map((file) => fsp.copyFile(path.join(IMAGES_DIR, file), path.join(outDir, file))));
+    }
+  };
+}
+
 export default defineConfig({
   root: 'site',
   base: './',
-  plugins: [react(), serveRepoImages()],
+  plugins: [react(), serveRepoImages(), copyImagesOnBuild()],
+  server: {
+    // pdf.ts imports shared PDF logic from ../../scripts/pdf-shared.ts (repo root),
+    // outside the "site" project root.
+    fs: { allow: [ROOT] }
+  },
   build: {
     outDir: 'dist',
     emptyOutDir: true

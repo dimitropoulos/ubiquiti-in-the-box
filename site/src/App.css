@@ -69,9 +69,34 @@ body {
   color: var(--fg);
 }
 
-button {
+button,
+.button-link {
   font: inherit;
   padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--fg);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  transition: border-color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease, transform 0.1s ease;
+}
+
+button:hover:not(:disabled):not(.primary),
+.button-link:hover {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 16%, transparent);
+}
+
+.icon-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
   border-radius: 8px;
   border: 1px solid var(--border);
   background: var(--bg);
@@ -80,7 +105,7 @@ button {
   transition: border-color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease, transform 0.1s ease;
 }
 
-button:hover:not(:disabled):not(.primary) {
+.icon-link:hover {
   border-color: var(--accent);
   box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 16%, transparent);
 }
@@ -128,11 +153,14 @@ button.primary:hover:not(:disabled) {
 .sidebar-header {
   padding: 14px 16px;
   border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .sidebar-header h1 {
-  font-size: 16px;
-  margin: 0 0 10px;
+  font-size: 15px;
+  margin: 6px 0;
   background: linear-gradient(135deg, var(--accent), var(--accent-2));
   background-clip: text;
   -webkit-background-clip: text;
@@ -145,20 +173,10 @@ button.primary:hover:not(:disabled) {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-bottom: 10px;
   font-size: 13px;
   color: var(--muted);
   cursor: pointer;
   user-select: none;
-}
-
-.sidebar-actions {
-  display: flex;
-  gap: 8px;
-}
-
-.sidebar-actions button {
-  flex: 1;
 }
 
 .product-list {
@@ -254,6 +272,7 @@ button.primary:hover:not(:disabled) {
 
 .toolbar {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
@@ -264,6 +283,12 @@ button.primary:hover:not(:disabled) {
 .count {
   color: var(--muted);
   font-size: 14px;
+}
+
+.toolbar-count {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .toolbar-actions {

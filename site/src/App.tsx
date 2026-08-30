@@ -3,6 +3,9 @@ import { Checkbox } from '@base-ui/react/checkbox';
 import type { Product } from './types';
 import { downloadBytes, generatePdf } from './pdf';
 
+const FULL_PDF_URL = 'https://raw.githubusercontent.com/dimitropoulos/ubiquiti-in-the-box/refs/heads/main/in-the-box.pdf';
+const REPO_URL = 'https://github.com/dimitropoulos/ubiquiti-in-the-box';
+
 function useTheme(): [string, () => void] {
   const [theme, setTheme] = useState(() => {
     const stored = localStorage.getItem('theme');
@@ -60,10 +63,6 @@ export function App() {
     window.setTimeout(() => {
       setStatus((current) => (current === message ? null : current));
     }, 3000);
-  }
-
-  function selectAll() {
-    setSelected(new Set(products.filter((product) => !product.noImage).map((product) => product.model)));
   }
 
   function clearAll() {
@@ -125,14 +124,6 @@ export function App() {
             </Checkbox.Root>
             Show all
           </label>
-          <div className="sidebar-actions">
-            <button type="button" onClick={selectAll}>
-              Select all
-            </button>
-            <button type="button" onClick={clearAll}>
-              Clear
-            </button>
-          </div>
         </div>
 
         <ul className="product-list">
@@ -172,11 +163,26 @@ export function App() {
 
       <main className="content">
         <header className="toolbar">
-          <span className="count">{selected.size} selected</span>
+          <div className="toolbar-count">
+            <span className="count">{selected.size} selected</span>
+            {selected.size > 0 && (
+              <button type="button" onClick={clearAll}>
+                Clear
+              </button>
+            )}
+          </div>
           <div className="toolbar-actions">
-            <button type="button" onClick={toggleTheme} aria-label="Toggle dark mode">
+            <button type="button" style={{ padding: 6 }} onClick={toggleTheme} aria-label="Toggle dark mode">
               {theme === 'dark' ? '☀️' : '🌙'}
             </button>
+            <a className="icon-link" href={REPO_URL} target="_blank" rel="noopener noreferrer" aria-label="View source on GitHub" title="View source on GitHub">
+              <svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.23.48-2.7-1.07-2.7-1.07-.36-.93-.89-1.18-.89-1.18-.72-.5.06-.49.06-.49.8.06 1.23.83 1.23.83.71 1.23 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z" />
+              </svg>
+            </a>
+            <a className="button-link" href={FULL_PDF_URL} target="_blank" rel="noopener noreferrer">
+              Download all
+            </a>
             <button type="button" className="primary" disabled={selected.size === 0 || busy} onClick={handleGeneratePdf}>
               Generate PDF
             </button>
