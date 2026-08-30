@@ -2645,8 +2645,8 @@
     "description": "3U rack-mount NAS with sixteen 3.5\"/2.5\" SATA bays, dual 25 Gbps SFP28 and 10 GbE RJ45 ports, hot-swappable M.2 NVMe support, front magnetic I/O, Mini-SAS HD expansion, and redundant CRPS power for scalable, high-performance storage deployments.",
     "image": "/images/enas.png",
     "pdfImage": "/images/enas.png",
-    "width": 4000,
-    "height": 2044,
+    "width": 3840,
+    "height": 1962,
     "noImage": false,
     "url": "https://store.ui.com/us/en/category/network-storage/products/enas?variant=enas"
   },
