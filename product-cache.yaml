@@ -9790,17 +9790,50 @@ UWB-XG-US:
   urls:
     - https://store.ui.com/us/en/category/wifi-mega-capacity/products/uwb-xg?variant=uwb-xg-us
   updatedAt: '2026-08-30T03:50:39.598Z'
+UX7-2-US:
+  model: UX7-2-US
+  productName: UX7
+  productTitle: UniFi Express 7
+  productDescription: >-
+    Mesh-scalable, super-compact 10G Cloud Gateway with integrated 6 GHz WiFi 7. Plug-and-play Whole-Home WiFi with true
+    10G Multi-Link Operation, intelligent placement guidance, and effortless mesh expansion with additional nodes.
+  productId: d3220754-f4a9-4ecc-a0bd-64e1520ef471
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/d3220754-f4a9-4ecc-a0bd-64e1520ef471/f6e369c6-d2fc-4112-98c9-81da05475792.png
+    width: 2000
+    height: 1000
+  urls:
+    - https://store.ui.com/us/en/category/cloud-gateways-whole-home-wifi/products/ux7?variant=ux7-2-us
+  updatedAt: '2026-09-02T19:34:27.860Z'
+UX7-3-US:
+  model: UX7-3-US
+  productName: UX7
+  productTitle: UniFi Express 7
+  productDescription: >-
+    Mesh-scalable, super-compact 10G Cloud Gateway with integrated 6 GHz WiFi 7. Plug-and-play Whole-Home WiFi with true
+    10G Multi-Link Operation, intelligent placement guidance, and effortless mesh expansion with additional nodes.
+  productId: d3220754-f4a9-4ecc-a0bd-64e1520ef471
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/d3220754-f4a9-4ecc-a0bd-64e1520ef471/748e2f7e-cde0-470c-8293-1f3f43b9bd72.png
+    width: 2000
+    height: 1000
+  urls:
+    - https://store.ui.com/us/en/category/cloud-gateways-whole-home-wifi/products/ux7?variant=ux7-3-us
+  updatedAt: '2026-09-02T19:34:26.378Z'
 UX7-US:
   model: UX7-US
   productName: UX7
   productTitle: UniFi Express 7
-  productDescription: Mesh-scalable, super-compact 10G Cloud Gateway with integrated WiFi 7.
+  productDescription: >-
+    Mesh-scalable, super-compact 10G Cloud Gateway with integrated 6 GHz WiFi 7. Plug-and-play Whole-Home WiFi with true
+    10G Multi-Link Operation, intelligent placement guidance, and effortless mesh expansion with additional nodes.
   productId: d3220754-f4a9-4ecc-a0bd-64e1520ef471
   image:
     originUrl: https://cdn.ecomm.ui.com/products/d3220754-f4a9-4ecc-a0bd-64e1520ef471/53c6e20a-2c85-4590-b684-c43fa2c5040e.png
     width: 1500
     height: 909
   urls:
+    - https://store.ui.com/us/en/category/cloud-gateways-whole-home-wifi/products/ux7?variant=ux7-us
     - https://store.ui.com/us/en/category/cloud-gateways-wifi-integrated/products/ux7?variant=ux7-us
   updatedAt: '2026-08-30T03:50:29.496Z'
 UXG-Enterprise:

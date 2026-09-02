@@ -7458,9 +7458,31 @@
     "url": "https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-cable-patch-el?variant=uacc-cable-patch-el-8m-w"
   },
   {
+    "model": "UX7-2-US",
+    "name": "UniFi Express 7",
+    "description": "Mesh-scalable, super-compact 10G Cloud Gateway with integrated 6 GHz WiFi 7. Plug-and-play Whole-Home WiFi with true 10G Multi-Link Operation, intelligent placement guidance, and effortless mesh expansion with additional nodes.",
+    "image": "/images/ux7-2-us.png",
+    "pdfImage": "/images/ux7-2-us.png",
+    "width": 2000,
+    "height": 1000,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/cloud-gateways-whole-home-wifi/products/ux7?variant=ux7-2-us"
+  },
+  {
+    "model": "UX7-3-US",
+    "name": "UniFi Express 7",
+    "description": "Mesh-scalable, super-compact 10G Cloud Gateway with integrated 6 GHz WiFi 7. Plug-and-play Whole-Home WiFi with true 10G Multi-Link Operation, intelligent placement guidance, and effortless mesh expansion with additional nodes.",
+    "image": "/images/ux7-3-us.png",
+    "pdfImage": "/images/ux7-3-us.png",
+    "width": 2000,
+    "height": 1000,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/cloud-gateways-whole-home-wifi/products/ux7?variant=ux7-3-us"
+  },
+  {
     "model": "UX7-US",
     "name": "UniFi Express 7",
-    "description": "Mesh-scalable, super-compact 10G Cloud Gateway with integrated WiFi 7.",
+    "description": "Mesh-scalable, super-compact 10G Cloud Gateway with integrated 6 GHz WiFi 7. Plug-and-play Whole-Home WiFi with true 10G Multi-Link Operation, intelligent placement guidance, and effortless mesh expansion with additional nodes.",
     "image": "/images/ux7-us.png",
     "pdfImage": "/images/ux7-us.png",
     "width": 1500,
