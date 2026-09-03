@@ -2574,6 +2574,17 @@
     "url": "https://store.ui.com/us/en/category/switching-enterprise/products/ecs-24-poe?variant=ecs-24-poe"
   },
   {
+    "model": "ECS-24S",
+    "name": "Enterprise Campus 24S",
+    "description": "Enterprise-grade 24-port, Layer 3 Etherlighting™ switch with Stacking support and high-capacity 10 GbE RJ45 and 25G SFP28 connections for high availability system design.",
+    "image": "/images/ecs-24s.png",
+    "pdfImage": "/images/ecs-24s.png",
+    "width": 3000,
+    "height": 1725,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/switching-enterprise/products/ecs-24s?variant=ecs-24s"
+  },
+  {
     "model": "ECS-24S-PoE",
     "name": "Enterprise Campus 24S PoE",
     "description": "Enterprise-grade 24-port, Layer 3 Etherlighting™ PoE+++ switch with Stacking support and high-capacity 10 GbE RJ45 and 25G SFP28 connections for high availability system design.",
@@ -2596,6 +2607,17 @@
     "url": "https://store.ui.com/us/en/category/switching-enterprise/products/ecs-48-poe?variant=ecs-48-poe"
   },
   {
+    "model": "ECS-48S",
+    "name": "Enterprise Campus 48S",
+    "description": "Enterprise-grade 48-port, Layer 3 Etherlighting™ switch with Stacking support and high-capacity 10 GbE RJ45 and 25G SFP28 connections for high availability system design.",
+    "image": "/images/ecs-48s.png",
+    "pdfImage": "/images/ecs-48s.png",
+    "width": 3000,
+    "height": 1725,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/switching-enterprise/products/ecs-48s?variant=ecs-48s"
+  },
+  {
     "model": "ECS-48S-PoE",
     "name": "Enterprise Campus 48S PoE",
     "description": "Enterprise-grade 48-port, Layer 3 Etherlighting™ PoE+++ switch with Stacking support and high-capacity 10 GbE RJ45 and 25G SFP28 connections for high availability system design.",
@@ -2615,7 +2637,18 @@
     "width": 1500,
     "height": 964,
     "noImage": false,
-    "url": "https://store.ui.com/us/en/category/switching-aggregation/products/ecs-aggregation?variant=ecs-aggregation"
+    "url": "https://store.ui.com/us/en/category/switching-enterprise/products/ecs-aggregation?variant=ecs-aggregation"
+  },
+  {
+    "model": "ECS-Core",
+    "name": "Enterprise Campus Switch Core",
+    "description": "3.2 Tbps high-density 100G Layer 3 Etherlighting™ core switch with MC-LAG support for high availability system design.",
+    "image": "/images/ecs-core.png",
+    "pdfImage": "/images/ecs-core.png",
+    "width": 3000,
+    "height": 1812,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/switching-aggregation/products/ecs-core?variant=ecs-core"
   },
   {
     "model": "EFG",
@@ -7488,7 +7521,7 @@
     "width": 1500,
     "height": 909,
     "noImage": false,
-    "url": "https://store.ui.com/us/en/category/cloud-gateways-wifi-integrated/products/ux7?variant=ux7-us"
+    "url": "https://store.ui.com/us/en/category/cloud-gateways-whole-home-wifi/products/ux7?variant=ux7-us"
   },
   {
     "model": "U-Cable-C6-CMP",
