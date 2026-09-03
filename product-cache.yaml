@@ -186,6 +186,21 @@ ECS-24-PoE:
   urls:
     - https://store.ui.com/us/en/category/switching-enterprise/products/ecs-24-poe?variant=ecs-24-poe
   updatedAt: '2026-08-30T03:50:31.691Z'
+ECS-24S:
+  model: ECS-24S
+  productName: ECS-24S
+  productTitle: Enterprise Campus 24S
+  productDescription: >-
+    Enterprise-grade 24-port, Layer 3 Etherlighting™ switch with Stacking support and high-capacity 10 GbE RJ45 and 25G
+    SFP28 connections for high availability system design.
+  productId: 4aca7985-bf07-4835-b2a2-7f14685f50c1
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/4aca7985-bf07-4835-b2a2-7f14685f50c1/c09eb251-c1d4-4aae-aa2c-52faa9f8ff6f.png
+    width: 3000
+    height: 1725
+  urls:
+    - https://store.ui.com/us/en/category/switching-enterprise/products/ecs-24s?variant=ecs-24s
+  updatedAt: '2026-09-03T19:30:52.705Z'
 ECS-24S-PoE:
   model: ECS-24S-PoE
   productName: ECS-24S-PoE
@@ -216,6 +231,21 @@ ECS-48-PoE:
   urls:
     - https://store.ui.com/us/en/category/switching-enterprise/products/ecs-48-poe?variant=ecs-48-poe
   updatedAt: '2026-08-30T03:50:31.748Z'
+ECS-48S:
+  model: ECS-48S
+  productName: ECS-48S
+  productTitle: Enterprise Campus 48S
+  productDescription: >-
+    Enterprise-grade 48-port, Layer 3 Etherlighting™ switch with Stacking support and high-capacity 10 GbE RJ45 and 25G
+    SFP28 connections for high availability system design.
+  productId: c2dcfd86-e80c-4f55-a883-a40112f222d5
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/c2dcfd86-e80c-4f55-a883-a40112f222d5/2d04f1be-145e-4460-b002-b604eea25d3c.png
+    width: 3000
+    height: 1725
+  urls:
+    - https://store.ui.com/us/en/category/switching-enterprise/products/ecs-48s?variant=ecs-48s
+  updatedAt: '2026-09-03T19:30:56.542Z'
 ECS-48S-PoE:
   model: ECS-48S-PoE
   productName: ECS-48S-PoE
@@ -245,7 +275,23 @@ ECS-Aggregation:
     height: 964
   urls:
     - https://store.ui.com/us/en/category/switching-aggregation/products/ecs-aggregation?variant=ecs-aggregation
+    - https://store.ui.com/us/en/category/switching-enterprise/products/ecs-aggregation?variant=ecs-aggregation
   updatedAt: '2026-08-30T03:50:30.303Z'
+ECS-Core:
+  model: ECS-Core
+  productName: ECS-Core
+  productTitle: Enterprise Campus Switch Core
+  productDescription: >-
+    3.2 Tbps high-density 100G Layer 3 Etherlighting™ core switch with MC-LAG support for high availability system
+    design.
+  productId: 2fef9072-e7cd-4e94-82c3-b35ed53e473f
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/2fef9072-e7cd-4e94-82c3-b35ed53e473f/dd3aa82d-4cf9-4f16-a2f5-30ab2aaa2902.png
+    width: 3000
+    height: 1812
+  urls:
+    - https://store.ui.com/us/en/category/switching-aggregation/products/ecs-core?variant=ecs-core
+  updatedAt: '2026-09-03T19:30:52.998Z'
 EF-Core:
   model: EF-Core
   productName: EF-Core
