@@ -291,6 +291,7 @@ ECS-Core:
     height: 1812
   urls:
     - https://store.ui.com/us/en/category/switching-aggregation/products/ecs-core?variant=ecs-core
+    - https://store.ui.com/us/en/category/switching-enterprise/products/ecs-core?variant=ecs-core
   updatedAt: '2026-09-03T19:30:52.998Z'
 EF-Core:
   model: EF-Core
@@ -9850,6 +9851,7 @@ UX7-2-US:
     height: 1000
   urls:
     - https://store.ui.com/us/en/category/cloud-gateways-whole-home-wifi/products/ux7?variant=ux7-2-us
+    - https://store.ui.com/us/en/category/cloud-gateways-wifi-integrated/products/ux7?variant=ux7-2-us
   updatedAt: '2026-09-02T19:34:27.860Z'
 UX7-3-US:
   model: UX7-3-US
@@ -9865,6 +9867,7 @@ UX7-3-US:
     height: 1000
   urls:
     - https://store.ui.com/us/en/category/cloud-gateways-whole-home-wifi/products/ux7?variant=ux7-3-us
+    - https://store.ui.com/us/en/category/cloud-gateways-wifi-integrated/products/ux7?variant=ux7-3-us
   updatedAt: '2026-09-02T19:34:26.378Z'
 UX7-US:
   model: UX7-US
