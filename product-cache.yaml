@@ -3986,6 +3986,16 @@ UACC-EVSP-Card-Reader:
   urls:
     - https://store.ui.com/us/en/category/accessories-installations/products/uacc-evsp-card-reader?variant=uacc-evsp-card-reader
   updatedAt: '2026-08-30T03:51:39.262Z'
+UACC-EVSP-Payment-Terminal:
+  model: UACC-EVSP-Payment-Terminal
+  productName: UACC-EVSP-Payment-Terminal
+  productTitle: EV Station Pro Payment Terminal
+  productDescription: Payment terminal accessory for EV Station Pro that supports contactless payments.
+  productId: 49908272-bc54-4fc5-b763-008ed24c53df
+  noInTheBoxImage: true
+  urls:
+    - https://store.ui.com/us/en/category/accessories-installations/products/uacc-evsp-payment-terminal?variant=uacc-evsp-payment-terminal
+  updatedAt: '2026-09-15T19:56:36.447Z'
 UACC-Fan-F2B-4020:
   model: UACC-Fan-F2B-4020
   productName: UACC-Fan-4020
@@ -9527,8 +9537,8 @@ UVC-G6-Edge-Bullet:
   productName: UVC-G6-Edge-Bullet
   productTitle: G6 Edge Bullet
   productDescription: >-
-    All-weather, 4K PoE+ camera that supports standalone operation (no NVR required), integrated AI-powered search,
-    2.36x optical zoom, and a large 1/1.2" CMOS sensor for exceptional low-light clarity and long-range IR night vision.
+    All-weather, 4K PoE+ camera that supports standalone operation (NVR optional), integrated AI-powered search, 2.36x
+    optical zoom, and a large 1/1.2" CMOS sensor for exceptional low-light clarity and long-range IR night vision.
   productId: 408f5d67-d421-4cc7-9786-d96f44f5b718
   image:
     originUrl: https://cdn.ecomm.ui.com/products/408f5d67-d421-4cc7-9786-d96f44f5b718/74a652ba-eeff-47b8-9b17-2547564e77e0.png
@@ -9542,7 +9552,7 @@ UVC-G6-Edge-Dome:
   productName: UVC-G6-Edge-Dome
   productTitle: G6 Edge Dome
   productDescription: >-
-    All-weather, vandal-proof 4K PoE+ camera that supports standalone operation (no NVR required), integrated AI-powered
+    All-weather, vandal-proof 4K PoE+ camera that supports standalone operation (NVR optional), integrated AI-powered
     search, 2.36x optical zoom, and a large 1/1.2" CMOS sensor for exceptional low-light clarity and long-range IR night
     vision.
   productId: 78af4fc9-c880-4c19-84fe-29adbecc0827
@@ -9558,7 +9568,7 @@ UVC-G6-Edge-Turret:
   productName: UVC-G6-Edge-Turret
   productTitle: G6 Edge Turret
   productDescription: >-
-    All-weather, tamper-resistant 4K PoE+ camera that supports standalone operation (no NVR required), integrated
+    All-weather, tamper-resistant 4K PoE+ camera that supports standalone operation (NVR optional), integrated
     AI-powered search, 2.36x optical zoom, and a large 1/1.2" CMOS sensor for exceptional low-light clarity and
     long-range IR night vision.
   productId: 802a5185-1d4a-45d1-b4bb-6b1d4036c52d

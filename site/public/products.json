@@ -2849,6 +2849,17 @@
     "url": "https://store.ui.com/us/en/category/accessories-installations/products/uacc-evsp-card-reader?variant=uacc-evsp-card-reader"
   },
   {
+    "model": "UACC-EVSP-Payment-Terminal",
+    "name": "EV Station Pro Payment Terminal",
+    "description": "Payment terminal accessory for EV Station Pro that supports contactless payments.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-installations/products/uacc-evsp-payment-terminal?variant=uacc-evsp-payment-terminal"
+  },
+  {
     "model": "UACC-EV-Station-Stand",
     "name": "EV Station Stand",
     "description": "An indoor/outdoor stand that can mount up to two EV Stations.",
@@ -4248,7 +4259,7 @@
   {
     "model": "UVC-G6-Edge-Bullet",
     "name": "G6 Edge Bullet",
-    "description": "All-weather, 4K PoE+ camera that supports standalone operation (no NVR required), integrated AI-powered search, 2.36x optical zoom, and a large 1/1.2\" CMOS sensor for exceptional low-light clarity and long-range IR night vision.",
+    "description": "All-weather, 4K PoE+ camera that supports standalone operation (NVR optional), integrated AI-powered search, 2.36x optical zoom, and a large 1/1.2\" CMOS sensor for exceptional low-light clarity and long-range IR night vision.",
     "image": "/images/uvc-g6-edge-bullet.png",
     "pdfImage": "/images/uvc-g6-edge-bullet.png",
     "width": 1500,
@@ -4259,7 +4270,7 @@
   {
     "model": "UVC-G6-Edge-Dome",
     "name": "G6 Edge Dome",
-    "description": "All-weather, vandal-proof 4K PoE+ camera that supports standalone operation (no NVR required), integrated AI-powered search, 2.36x optical zoom, and a large 1/1.2\" CMOS sensor for exceptional low-light clarity and long-range IR night vision.",
+    "description": "All-weather, vandal-proof 4K PoE+ camera that supports standalone operation (NVR optional), integrated AI-powered search, 2.36x optical zoom, and a large 1/1.2\" CMOS sensor for exceptional low-light clarity and long-range IR night vision.",
     "image": "/images/uvc-g6-edge-dome.png",
     "pdfImage": "/images/uvc-g6-edge-dome.png",
     "width": 1500,
@@ -4270,7 +4281,7 @@
   {
     "model": "UVC-G6-Edge-Turret",
     "name": "G6 Edge Turret",
-    "description": "All-weather, tamper-resistant 4K PoE+ camera that supports standalone operation (no NVR required), integrated AI-powered search, 2.36x optical zoom, and a large 1/1.2\" CMOS sensor for exceptional low-light clarity and long-range IR night vision.",
+    "description": "All-weather, tamper-resistant 4K PoE+ camera that supports standalone operation (NVR optional), integrated AI-powered search, 2.36x optical zoom, and a large 1/1.2\" CMOS sensor for exceptional low-light clarity and long-range IR night vision.",
     "image": "/images/uvc-g6-edge-turret.png",
     "pdfImage": "/images/uvc-g6-edge-turret.png",
     "width": 1500,
