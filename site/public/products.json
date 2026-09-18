@@ -4950,6 +4950,28 @@
     "url": "https://store.ui.com/us/en/category/door-access-accessories/products/uacc-intercom-wm?variant=uacc-intercom-wm"
   },
   {
+    "model": "UACC-Cable-IR-Blaster",
+    "name": "IR Blaster",
+    "description": "An IR signal transmitter which transmits remote control signals from Enterprise Audio/Video Bridge to adjacent devices.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-installations/products/uacc-cable-ir-blaster?variant=uacc-cable-ir-blaster"
+  },
+  {
+    "model": "UACC-Cable-IR-Receiver",
+    "name": "IR Receiver",
+    "description": "An IR signal receiver which allows remote control signals to be forwarded via Enterprise Audio/Video Bridge.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-installations/products/uacc-cable-ir-receiver?variant=uacc-cable-ir-receiver"
+  },
+  {
     "model": "UACC-Junction-Utility",
     "name": "Junction Utility",
     "description": "An indoor/outdoor enclosure designed for UniFi Access Hubs, switches, and accessories.",
@@ -6679,7 +6701,7 @@
   {
     "model": "USL-G2-Gateway-HA-US",
     "name": "SuperLink Gateway HA",
-    "description": "A SuperLink gateway and Thread border router designed for long-range SuperLink sensors and Thread devices, with LTE connectivity and built-in battery for power backup.",
+    "description": "Proprietary super long-range, low-latency wireless gateway for SuperLink Sensors with LTE connectivity and built-in battery for power backup.",
     "image": "/images/usl-g2-gateway-ha-us.png",
     "pdfImage": "/images/usl-g2-gateway-ha-us.png",
     "width": 1500,
