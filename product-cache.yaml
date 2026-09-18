@@ -2195,6 +2195,28 @@ UACC-Cable-Extender-C6A:
   urls:
     - https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-cable-extender-c6a?variant=uacc-cable-extender-c6a
   updatedAt: '2026-08-30T03:51:23.170Z'
+UACC-Cable-IR-Blaster:
+  model: UACC-Cable-IR-Blaster
+  productName: UACC-Cable-IR-Blaster
+  productTitle: IR Blaster
+  productDescription: >-
+    An IR signal transmitter which transmits remote control signals from Enterprise Audio/Video Bridge to adjacent
+    devices.
+  productId: 194086e4-414a-453e-8ab2-2aebb6532d71
+  noInTheBoxImage: true
+  urls:
+    - https://store.ui.com/us/en/category/accessories-installations/products/uacc-cable-ir-blaster?variant=uacc-cable-ir-blaster
+  updatedAt: '2026-09-18T17:04:50.253Z'
+UACC-Cable-IR-Receiver:
+  model: UACC-Cable-IR-Receiver
+  productName: UACC-Cable-IR-Receiver
+  productTitle: IR Receiver
+  productDescription: An IR signal receiver which allows remote control signals to be forwarded via Enterprise Audio/Video Bridge.
+  productId: b2ecbde8-adfc-4613-8204-aa4419f69405
+  noInTheBoxImage: true
+  urls:
+    - https://store.ui.com/us/en/category/accessories-installations/products/uacc-cable-ir-receiver?variant=uacc-cable-ir-receiver
+  updatedAt: '2026-09-18T17:04:50.206Z'
 UACC-Cable-Patch-0.2M-BK:
   model: UACC-Cable-Patch-0.2M-BK
   productName: UACC-Cable-Patch
@@ -7815,8 +7837,8 @@ USL-G2-Gateway-HA-US:
   productName: USL-G2-Gateway-HA
   productTitle: SuperLink Gateway HA
   productDescription: >-
-    A SuperLink gateway and Thread border router designed for long-range SuperLink sensors and Thread devices, with LTE
-    connectivity and built-in battery for power backup.
+    Proprietary super long-range, low-latency wireless gateway for SuperLink Sensors with LTE connectivity and built-in
+    battery for power backup.
   productId: 84c6c449-533d-483c-99d2-164951097b79
   image:
     originUrl: https://cdn.ecomm.ui.com/products/84c6c449-533d-483c-99d2-164951097b79/1f6fc0a5-1260-4936-b129-844c7216af63.png
