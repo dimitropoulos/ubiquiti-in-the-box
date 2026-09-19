@@ -39,10 +39,21 @@ jobs:
       - name: Scrape catalog (relies on cache to avoid rate limiting)
         run: pnpm run scrape
 
+      - name: Detect catalog changes
+        id: catalog
+        run: |
+          if git diff --quiet -- product-cache.yaml images; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Build full PDF
+        if: steps.catalog.outputs.changed == 'true'
         run: pnpm run pdf:full
 
       - name: Build site
+        if: steps.catalog.outputs.changed == 'true'
         run: pnpm run build
 
       - name: Commit changes
