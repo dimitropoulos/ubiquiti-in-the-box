@@ -6475,6 +6475,21 @@ UACC-SSD-Tray:
   urls:
     - https://store.ui.com/us/en/category/accessories-installations/products/uacc-ssd-tray?variant=uacc-ssd-tray
   updatedAt: '2026-08-30T03:51:39.815Z'
+UACC-SSD-Tray-B:
+  model: UACC-SSD-Tray-B
+  productName: UACC-SSD-Tray
+  productTitle: M.2 SSD Tray
+  productDescription: >-
+    Optional storage insert for Cloud Gateways and UNAS models that supports one 2230, 2242, 2260, 2280, or 22110 sized
+    M.2 NVMe SSD.
+  productId: e6ef75f9-b133-46d6-8f52-d8a929bd793c
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/e6ef75f9-b133-46d6-8f52-d8a929bd793c/2b86cbe9-4f46-47a7-80dc-02360d194d41.png
+    width: 2000
+    height: 800
+  urls:
+    - https://store.ui.com/us/en/category/accessories-installations/products/uacc-ssd-tray?variant=uacc-ssd-tray-b
+  updatedAt: '2026-09-21T17:04:58.793Z'
 UACC-Switch-DIN:
   model: UACC-Switch-DIN
   productName: UACC-Switch-DIN

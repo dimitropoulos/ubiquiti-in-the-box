@@ -5071,6 +5071,17 @@
     "url": "https://store.ui.com/us/en/category/accessories-installations/products/uacc-ssd-tray?variant=uacc-ssd-tray"
   },
   {
+    "model": "UACC-SSD-Tray-B",
+    "name": "M.2 SSD Tray",
+    "description": "Optional storage insert for Cloud Gateways and UNAS models that supports one 2230, 2242, 2260, 2280, or 22110 sized M.2 NVMe SSD.",
+    "image": "/images/uacc-ssd-tray-b.png",
+    "pdfImage": "/images/uacc-ssd-tray-b.png",
+    "width": 2000,
+    "height": 800,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/accessories-installations/products/uacc-ssd-tray?variant=uacc-ssd-tray-b"
+  },
+  {
     "model": "UACC-Lock-Magnetic-270kg",
     "name": "Magnetic Lock",
     "description": "Fail-safe magnetic lock for inswing and outswing doors that connects to a UniFi Access Hub.",
