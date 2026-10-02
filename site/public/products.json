@@ -8967,7 +8967,7 @@
   {
     "model": "UPS-2U-Pro-US",
     "name": "UPS 2U Pro",
-    "description": "UniFi-managed 1.92kVA rackmount UPS with pure sine wave output, 8 individually controllable outlets with per-port power monitoring and remote power cycling, a field-replaceable 720Wh battery, and up to 22 minutes of runtime at half load 960W.",
+    "description": "UniFi-managed 1.92kVA rackmount UPS with pure sine wave output, 8 individually controllable outlets with per-port power monitoring and remote power cycling, a hot-swappable 720Wh battery, and up to 22 minutes of runtime at half load 960W.",
     "image": "/images/ups-2u-pro-us.png",
     "pdfImage": "/images/ups-2u-pro-us.png",
     "width": 3000,
