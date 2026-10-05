@@ -429,6 +429,17 @@
     "url": "https://store.ui.com/us/en/category/accessories-poe-power/products/uacc-poe-10g?variant=uacc-poeplusplusplus-10g"
   },
   {
+    "model": "UACC-OM-SM-10G-D",
+    "name": "10G Single-Mode Optical Module",
+    "description": "SFP+ transceiver that supports 10G connections up to 10 km using single-mode fiber with a duplex LC UPC connector.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-om-sm-10g-d?variant=uacc-om-sm-10g-d"
+  },
+  {
     "model": "UACC-OM-SM-10G-D-2",
     "name": "10G Single-Mode Optical Module",
     "description": "SFP+ transceiver that supports 10G connections up to 10 km using single-mode fiber with a duplex LC UPC connector.",
