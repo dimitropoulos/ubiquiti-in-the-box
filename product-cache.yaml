@@ -862,6 +862,21 @@ U6+-US:
   urls:
     - https://store.ui.com/us/en/category/wifi-flagship/products/u6-plus?variant=u6plus-us
   updatedAt: '2026-08-30T03:50:38.379Z'
+U7-Industrial-US:
+  model: U7-Industrial-US
+  productName: U7-Industrial
+  productTitle: U7 Industrial
+  productDescription: >-
+    IP67 industrial WiFi 7 access point with extended-temperature operation, integrated high-gain directional RF system
+    with adjustable isolation and beamwidth control.
+  productId: 27c2f194-28fc-4853-b39f-2c387d0c0669
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/27c2f194-28fc-4853-b39f-2c387d0c0669/1f25809d-35af-4b0c-b231-ec41e5bc9dc2.png
+    width: 1500
+    height: 915
+  urls:
+    - https://store.ui.com/us/en/category/wifi-outdoor/products/u7-industrial?variant=u7-industrial-us
+  updatedAt: '2026-10-08T17:05:03.893Z'
 U7-IW-US:
   model: U7-IW-US
   productName: U7-IW
@@ -8203,6 +8218,47 @@ USW-Flex-XG:
   urls:
     - https://store.ui.com/us/en/category/switching-utility/products/usw-flex-xg?variant=usw-flex-xg
   updatedAt: '2026-08-30T03:50:36.576Z'
+USW-Industrial-DIN-2.5G-8-PoE:
+  model: USW-Industrial-DIN-2.5G-8-PoE
+  productName: USW-Industrial-DIN-2.5G-8-PoE
+  productTitle: Industrial DIN 2.5G 8 PoE
+  productDescription: >-
+    Robust, industrial-grade 8-port PoE++ switch with (4) 2.5 GbE ports, (4) GbE ports, dual SFP+ ports, DIN-rail
+    mounting, and power redundancy.
+  productId: 940caf8d-bcd2-4fdf-a835-d835a2ccce68
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/940caf8d-bcd2-4fdf-a835-d835a2ccce68/1316b8c5-3291-4c93-bc66-a7a83cfc9a48.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/switching-utility/products/usw-industrial-din-2-5g-8-poe?variant=usw-industrial-din-2dot5g-8-poe
+  updatedAt: '2026-10-08T17:05:03.773Z'
+USW-Industrial-DIN-8:
+  model: USW-Industrial-DIN-8
+  productName: USW-Industrial-DIN-8
+  productTitle: Industrial DIN 8
+  productDescription: Robust, industrial-grade 8-port GbE switch with dual SFP ports, DIN-rail mounting and power redundancy.
+  productId: 35508b8f-0600-45e9-aa66-de881a6aa402
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/35508b8f-0600-45e9-aa66-de881a6aa402/05b7bb9c-32cb-472f-8e84-f30787ccea52.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/switching-utility/products/usw-industrial-din-8?variant=usw-industrial-din-8
+  updatedAt: '2026-10-08T17:05:02.421Z'
+USW-Industrial-DIN-8-PoE:
+  model: USW-Industrial-DIN-8-PoE
+  productName: USW-Industrial-DIN-8-PoE
+  productTitle: Industrial DIN 8 PoE
+  productDescription: Robust, industrial-grade 8-port GbE PoE++ switch with dual SFP ports, DIN-rail mounting and power redundancy.
+  productId: 2224a6a4-5ce5-496a-a8ed-b7a722af5d33
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/2224a6a4-5ce5-496a-a8ed-b7a722af5d33/5ceff4ca-ffc1-4fcf-8dde-a7b884d238b6.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/switching-utility/products/usw-industrial-din-8-poe?variant=usw-industrial-din-8-poe
+  updatedAt: '2026-10-08T17:05:01.362Z'
 USW-Lite-16-POE:
   model: USW-Lite-16-POE
   productName: USW-Lite-16-PoE

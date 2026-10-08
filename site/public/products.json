@@ -4862,6 +4862,39 @@
     "url": "https://store.ui.com/us/en/category/accessories-installations/products/uacc-in-wall-speaker?variant=uacc-in-wall-speaker"
   },
   {
+    "model": "USW-Industrial-DIN-2.5G-8-PoE",
+    "name": "Industrial DIN 2.5G 8 PoE",
+    "description": "Robust, industrial-grade 8-port PoE++ switch with (4) 2.5 GbE ports, (4) GbE ports, dual SFP+ ports, DIN-rail mounting, and power redundancy.",
+    "image": "/images/usw-industrial-din-2-5g-8-poe.png",
+    "pdfImage": "/images/usw-industrial-din-2-5g-8-poe.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/switching-utility/products/usw-industrial-din-2-5g-8-poe?variant=usw-industrial-din-2dot5g-8-poe"
+  },
+  {
+    "model": "USW-Industrial-DIN-8",
+    "name": "Industrial DIN 8",
+    "description": "Robust, industrial-grade 8-port GbE switch with dual SFP ports, DIN-rail mounting and power redundancy.",
+    "image": "/images/usw-industrial-din-8.png",
+    "pdfImage": "/images/usw-industrial-din-8.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/switching-utility/products/usw-industrial-din-8?variant=usw-industrial-din-8"
+  },
+  {
+    "model": "USW-Industrial-DIN-8-PoE",
+    "name": "Industrial DIN 8 PoE",
+    "description": "Robust, industrial-grade 8-port GbE PoE++ switch with dual SFP ports, DIN-rail mounting and power redundancy.",
+    "image": "/images/usw-industrial-din-8-poe.png",
+    "pdfImage": "/images/usw-industrial-din-8-poe.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/switching-utility/products/usw-industrial-din-8-poe?variant=usw-industrial-din-8-poe"
+  },
+  {
     "model": "UACC-G4-INS-Cable-USB-4.5M",
     "name": "Instant Camera PoE to USB-C Cable",
     "description": "Four-and-a-half-meter USB cable that connects a Camera G4/G6 Instant to a PoE source.",
@@ -7038,6 +7071,17 @@
     "height": 839,
     "noImage": false,
     "url": "https://store.ui.com/us/en/category/wifi-wall/products/u7-iw?variant=u7-iw-us"
+  },
+  {
+    "model": "U7-Industrial-US",
+    "name": "U7 Industrial",
+    "description": "IP67 industrial WiFi 7 access point with extended-temperature operation, integrated high-gain directional RF system with adjustable isolation and beamwidth control.",
+    "image": "/images/u7-industrial-us.png",
+    "pdfImage": "/images/u7-industrial-us.png",
+    "width": 1500,
+    "height": 915,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/wifi-outdoor/products/u7-industrial?variant=u7-industrial-us"
   },
   {
     "model": "U7-Lite-US",
