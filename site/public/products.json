@@ -1815,8 +1815,30 @@
     "url": "https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-am?variant=uacc-camera-am-w"
   },
   {
-    "model": "UACC-Camera-CJB-B",
+    "model": "UACC-Camera-R2-CJB-B",
     "name": "Camera Compact Junction Box",
+    "description": "Tamper-resistant junction box for compact UniFi Bullet, Dome, and Turret cameras that enhances mounting durability, aesthetics, and ease of maintenance.",
+    "image": "/images/uacc-camera-r2-cjb-b.png",
+    "pdfImage": "/images/uacc-camera-r2-cjb-b.png",
+    "width": 905,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-r2-cjb?variant=uacc-camera-r2-cjb-b"
+  },
+  {
+    "model": "UACC-Camera-R2-CJB-W",
+    "name": "Camera Compact Junction Box",
+    "description": "Tamper-resistant junction box for compact UniFi Bullet, Dome, and Turret cameras that enhances mounting durability, aesthetics, and ease of maintenance.",
+    "image": "/images/uacc-camera-r2-cjb-w.png",
+    "pdfImage": "/images/uacc-camera-r2-cjb-w.png",
+    "width": 905,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-r2-cjb?variant=uacc-camera-r2-cjb-w"
+  },
+  {
+    "model": "UACC-Camera-CJB-B",
+    "name": "Camera Compact Junction Box (Vintage)",
     "description": "Tamper-resistant junction box for compact UniFi Dome and Turret cameras that enhances mounting durability, aesthetics, and ease of maintenance.",
     "image": "/images/uacc-camera-cjb-b.png",
     "pdfImage": "/images/uacc-camera-cjb-b.png",
@@ -1827,7 +1849,7 @@
   },
   {
     "model": "UACC-Camera-CJB-W",
-    "name": "Camera Compact Junction Box",
+    "name": "Camera Compact Junction Box (Vintage)",
     "description": "Tamper-resistant junction box for compact UniFi Dome and Turret cameras that enhances mounting durability, aesthetics, and ease of maintenance.",
     "image": "/images/uacc-camera-cjb-w.png",
     "pdfImage": "/images/uacc-camera-cjb-w.png",
@@ -1859,8 +1881,30 @@
     "url": "https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-dm?variant=uacc-camera-dm-w"
   },
   {
-    "model": "UACC-Camera-JB-B",
+    "model": "UACC-Camera-R2-JB-B",
     "name": "Camera Junction Box",
+    "description": "Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability, aesthetics, and ease of maintenance.",
+    "image": "/images/uacc-camera-r2-jb-b.png",
+    "pdfImage": "/images/uacc-camera-r2-jb-b.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-r2-jb?variant=uacc-camera-r2-jb-b"
+  },
+  {
+    "model": "UACC-Camera-R2-JB-W",
+    "name": "Camera Junction Box",
+    "description": "Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability, aesthetics, and ease of maintenance.",
+    "image": "/images/uacc-camera-r2-jb-w.png",
+    "pdfImage": "/images/uacc-camera-r2-jb-w.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-r2-jb?variant=uacc-camera-r2-jb-w"
+  },
+  {
+    "model": "UACC-Camera-JB-B",
+    "name": "Camera Junction Box (Vintage)",
     "description": "Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability, aesthetics, and ease of maintenance.",
     "image": "/images/uacc-camera-jb-b.png",
     "pdfImage": "/images/uacc-camera-jb-b.png",
@@ -1871,7 +1915,7 @@
   },
   {
     "model": "UACC-Camera-JB-W",
-    "name": "Camera Junction Box",
+    "name": "Camera Junction Box (Vintage)",
     "description": "Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability, aesthetics, and ease of maintenance.",
     "image": "/images/uacc-camera-jb-w.png",
     "pdfImage": "/images/uacc-camera-jb-w.png",

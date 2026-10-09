@@ -3501,7 +3501,7 @@ UACC-Camera-AM-W:
 UACC-Camera-CJB-B:
   model: UACC-Camera-CJB-B
   productName: UACC-Camera-CJB
-  productTitle: Camera Compact Junction Box
+  productTitle: Camera Compact Junction Box (Vintage)
   productDescription: >-
     Tamper-resistant junction box for compact UniFi Dome and Turret cameras that enhances mounting durability,
     aesthetics, and ease of maintenance.
@@ -3516,7 +3516,7 @@ UACC-Camera-CJB-B:
 UACC-Camera-CJB-W:
   model: UACC-Camera-CJB-W
   productName: UACC-Camera-CJB
-  productTitle: Camera Compact Junction Box
+  productTitle: Camera Compact Junction Box (Vintage)
   productDescription: >-
     Tamper-resistant junction box for compact UniFi Dome and Turret cameras that enhances mounting durability,
     aesthetics, and ease of maintenance.
@@ -3561,7 +3561,7 @@ UACC-Camera-DM-W:
 UACC-Camera-JB-B:
   model: UACC-Camera-JB-B
   productName: UACC-Camera-JB
-  productTitle: Camera Junction Box
+  productTitle: Camera Junction Box (Vintage)
   productDescription: >-
     Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability,
     aesthetics, and ease of maintenance.
@@ -3576,7 +3576,7 @@ UACC-Camera-JB-B:
 UACC-Camera-JB-W:
   model: UACC-Camera-JB-W
   productName: UACC-Camera-JB
-  productTitle: Camera Junction Box
+  productTitle: Camera Junction Box (Vintage)
   productDescription: >-
     Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability,
     aesthetics, and ease of maintenance.
@@ -3588,6 +3588,66 @@ UACC-Camera-JB-W:
   urls:
     - https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-jb?variant=uacc-camera-jb-w
   updatedAt: '2026-08-30T03:50:53.348Z'
+UACC-Camera-R2-CJB-B:
+  model: UACC-Camera-R2-CJB-B
+  productName: UACC-Camera-R2-CJB
+  productTitle: Camera Compact Junction Box
+  productDescription: >-
+    Tamper-resistant junction box for compact UniFi Bullet, Dome, and Turret cameras that enhances mounting durability,
+    aesthetics, and ease of maintenance.
+  productId: 27c078ef-ab68-40da-aa49-dbc599dd71d1
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/27c078ef-ab68-40da-aa49-dbc599dd71d1/a12490c6-c539-4a11-801f-fbdee9a1ef3b.png
+    width: 905
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-r2-cjb?variant=uacc-camera-r2-cjb-b
+  updatedAt: '2026-10-09T17:04:41.932Z'
+UACC-Camera-R2-CJB-W:
+  model: UACC-Camera-R2-CJB-W
+  productName: UACC-Camera-R2-CJB
+  productTitle: Camera Compact Junction Box
+  productDescription: >-
+    Tamper-resistant junction box for compact UniFi Bullet, Dome, and Turret cameras that enhances mounting durability,
+    aesthetics, and ease of maintenance.
+  productId: 27c078ef-ab68-40da-aa49-dbc599dd71d1
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/27c078ef-ab68-40da-aa49-dbc599dd71d1/65b60497-2d89-431c-b4f9-0d5178f56103.png
+    width: 905
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-r2-cjb?variant=uacc-camera-r2-cjb-w
+  updatedAt: '2026-10-09T17:04:42.884Z'
+UACC-Camera-R2-JB-B:
+  model: UACC-Camera-R2-JB-B
+  productName: UACC-Camera-R2-JB
+  productTitle: Camera Junction Box
+  productDescription: >-
+    Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability,
+    aesthetics, and ease of maintenance.
+  productId: b9968e87-8e12-4d79-bd92-22e00959b137
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/b9968e87-8e12-4d79-bd92-22e00959b137/e1815d67-fc34-4255-901a-b2055a0a5100.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-r2-jb?variant=uacc-camera-r2-jb-b
+  updatedAt: '2026-10-09T17:04:43.948Z'
+UACC-Camera-R2-JB-W:
+  model: UACC-Camera-R2-JB-W
+  productName: UACC-Camera-R2-JB
+  productTitle: Camera Junction Box
+  productDescription: >-
+    Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability,
+    aesthetics, and ease of maintenance.
+  productId: b9968e87-8e12-4d79-bd92-22e00959b137
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/b9968e87-8e12-4d79-bd92-22e00959b137/dd59e145-6688-4ffd-8845-6a8a6378f13d.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-r2-jb?variant=uacc-camera-r2-jb-w
+  updatedAt: '2026-10-09T17:04:44.920Z'
 UACC-Chime-PoE:
   model: UACC-Chime-PoE
   productName: UACC-Chime-PoE
