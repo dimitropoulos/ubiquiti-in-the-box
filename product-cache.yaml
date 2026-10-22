@@ -9179,6 +9179,19 @@ UVC-Doorbell-B:
   urls:
     - https://store.ui.com/us/en/category/physical-security-doorbells/products/uvc-doorbell-lite?variant=uvc-doorbell-b
   updatedAt: '2026-08-30T03:50:52.250Z'
+UVC-Doorbell-Lite-B:
+  model: UVC-Doorbell-Lite-B
+  productName: UVC-Doorbell-Lite
+  productTitle: Doorbell Lite
+  productDescription: Compact PoE video doorbell with two-way audio and versatile mounting options.
+  productId: cc3293dc-3fe5-48a6-87c1-ea1ea940f33c
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/cc3293dc-3fe5-48a6-87c1-ea1ea940f33c/9a7f5103-fd9d-466e-bd22-13b2b6ed1751.png
+    width: 1500
+    height: 1000
+  urls:
+    - https://store.ui.com/us/en/category/physical-security-doorbells/products/uvc-doorbell-lite?variant=uvc-doorbell-lite-b
+  updatedAt: '2026-10-22T17:12:42.900Z'
 UVC-Doorbell-Lite-W:
   model: UVC-Doorbell-Lite-W
   productName: UVC-Doorbell-Lite
