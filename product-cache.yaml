@@ -4075,13 +4075,14 @@ UACC-EVSL-Stand-Adapter:
   updatedAt: '2026-08-30T03:51:39.262Z'
 UACC-EVSP-Card-Reader:
   model: UACC-EVSP-Card-Reader
-  productName: UACC-EVSP-Card-Reader
+  productName: UACC-EVSP-Payment-Terminal
   productTitle: EV Station Pro Payment Terminal
   productDescription: Payment terminal accessory for EV Station Pro that supports contactless payments.
   productId: 49908272-bc54-4fc5-b763-008ed24c53df
   noInTheBoxImage: true
   urls:
     - https://store.ui.com/us/en/category/accessories-installations/products/uacc-evsp-card-reader?variant=uacc-evsp-card-reader
+    - https://store.ui.com/us/en/category/accessories-installations/products/uacc-evsp-payment-terminal?variant=uacc-evsp-card-reader
   updatedAt: '2026-08-30T03:51:39.262Z'
 UACC-EVSP-Payment-Terminal:
   model: UACC-EVSP-Payment-Terminal
