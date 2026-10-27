@@ -5137,6 +5137,17 @@
     "url": "https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-lre?variant=uacc-lre"
   },
   {
+    "model": "USW-LR-Switch-8-PoE",
+    "name": "Long-Range Switch 8 PoE",
+    "description": "PoE+++ output and a 1.3\" touchscreen, with support for Long-Range Endpoints at distances up to 800 meters. Rackmount accessory included.",
+    "image": "/images/usw-lr-switch-8-poe.png",
+    "pdfImage": "/images/usw-lr-switch-8-poe.png",
+    "width": 3000,
+    "height": 1620,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/switching-utility/products/usw-lr-switch-8-poe?variant=usw-lr-switch-8-poe"
+  },
+  {
     "model": "U-LTE-US",
     "name": "LTE Backup",
     "description": "Seamless internet failover for UniFi gateways. Includes an AT&T SIM and data plan for plug-and-play deployment.",
@@ -5894,6 +5905,17 @@
     "height": 0,
     "noImage": true,
     "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-ofc-sa-mpmp?variant=uacc-ofc-sa-mpmp-5m"
+  },
+  {
+    "model": "UACC-LR-Endpoint",
+    "name": "Outdoor Long-Range Endpoint",
+    "description": "Extend the Long-Range Switch 8 PoE up to 800 m with an IPX5-rated endpoint featuring built-in surge protection.",
+    "image": "/images/uacc-lr-endpoint.png",
+    "pdfImage": "/images/uacc-lr-endpoint.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-lr-endpoint?variant=uacc-lr-endpoint"
   },
   {
     "model": "UACC-UK-Ultra-Panel-Antenna",

@@ -5133,6 +5133,19 @@ UACC-Lock-Strike-Secure-8mm:
   urls:
     - https://store.ui.com/us/en/category/door-access-accessories/products/uacc-lock-strike-secure-8mm?variant=uacc-lock-strike-secure-8mm
   updatedAt: '2026-08-30T03:51:17.457Z'
+UACC-LR-Endpoint:
+  model: UACC-LR-Endpoint
+  productName: UACC-LR-Endpoint
+  productTitle: Outdoor Long-Range Endpoint
+  productDescription: Extend the Long-Range Switch 8 PoE up to 800 m with an IPX5-rated endpoint featuring built-in surge protection.
+  productId: 0553d336-babc-4e2f-b998-8997bd9cfb09
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/0553d336-babc-4e2f-b998-8997bd9cfb09/c7f30fa1-dee1-4269-886e-849111526fdf.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-lr-endpoint?variant=uacc-lr-endpoint
+  updatedAt: '2026-10-27T17:04:15.583Z'
 UACC-LRE:
   model: UACC-LRE
   productName: UACC-LRE
@@ -8346,6 +8359,21 @@ USW-Lite-8-POE:
   urls:
     - https://store.ui.com/us/en/category/switching-utility/products/usw-lite-8-poe?variant=usw-lite-8-poe
   updatedAt: '2026-08-30T03:50:35.310Z'
+USW-LR-Switch-8-PoE:
+  model: USW-LR-Switch-8-PoE
+  productName: USW-LR-Switch-8-PoE
+  productTitle: Long-Range Switch 8 PoE
+  productDescription: >-
+    PoE+++ output and a 1.3" touchscreen, with support for Long-Range Endpoints at distances up to 800 meters. Rackmount
+    accessory included.
+  productId: e89551ff-356e-4a94-9e80-5499fb8c8557
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/e89551ff-356e-4a94-9e80-5499fb8c8557/e890a285-cdb7-49cd-aef9-6be52598d73d.png
+    width: 3000
+    height: 1620
+  urls:
+    - https://store.ui.com/us/en/category/switching-utility/products/usw-lr-switch-8-poe?variant=usw-lr-switch-8-poe
+  updatedAt: '2026-10-27T17:04:06.415Z'
 USW-Mission-Critical-US:
   model: USW-Mission-Critical-US
   productName: USW-Mission-Critical
