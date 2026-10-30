@@ -1795,7 +1795,7 @@
   {
     "model": "UACC-Camera-AM-B",
     "name": "Camera Arm Mount",
-    "description": "Arm mount accessory that attaches the UniFi Turret cameras to a wall, corner, or pole.",
+    "description": "Arm mount accessory that attaches the UniFi Turret and Dome cameras to a wall, corner, or pole.",
     "image": "/images/uacc-camera-am-b.png",
     "pdfImage": "/images/uacc-camera-am-b.png",
     "width": 2000,
@@ -1806,7 +1806,7 @@
   {
     "model": "UACC-Camera-AM-W",
     "name": "Camera Arm Mount",
-    "description": "Arm mount accessory that attaches the UniFi Turret cameras to a wall, corner, or pole.",
+    "description": "Arm mount accessory that attaches the UniFi Turret and Dome cameras to a wall, corner, or pole.",
     "image": "/images/uacc-camera-am-w.png",
     "pdfImage": "/images/uacc-camera-am-w.png",
     "width": 2000,
@@ -2531,14 +2531,25 @@
   },
   {
     "model": "UACC-Cable-Extender-C6A",
-    "name": "Easy Cable, 2-Pack",
-    "description": "Shielded, ultra-thin extension cable with waterproof cap, designed for tight spaces and last inch reach installations.",
+    "name": "Easy Cable",
+    "description": "Shielded, ultra-thin extension cable with a waterproof cap, designed for tight spaces and last-inch reach installations.",
     "image": null,
     "pdfImage": null,
     "width": 0,
     "height": 0,
     "noImage": true,
     "url": "https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-cable-extender-c6a?variant=uacc-cable-extender-c6a"
+  },
+  {
+    "model": "UACC-Cable-Extender-C6A-S",
+    "name": "Easy Cable",
+    "description": "Shielded, ultra-thin extension cable with a waterproof cap, designed for tight spaces and last-inch reach installations.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-cable-extender-c6a?variant=uacc-cable-extender-c6a-s"
   },
   {
     "model": "UACC-HDD-E-16TB",

@@ -2201,15 +2201,27 @@ UACC-Cable-DoorLockRelay-2P:
 UACC-Cable-Extender-C6A:
   model: UACC-Cable-Extender-C6A
   productName: UACC-Cable-Extender-C6A
-  productTitle: Easy Cable, 2-Pack
+  productTitle: Easy Cable
   productDescription: >-
-    Shielded, ultra-thin extension cable with waterproof cap, designed for tight spaces and last inch reach
+    Shielded, ultra-thin extension cable with a waterproof cap, designed for tight spaces and last-inch reach
     installations.
   productId: 52267163-c631-4b5f-b004-7dcf38953fe2
   noInTheBoxImage: true
   urls:
     - https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-cable-extender-c6a?variant=uacc-cable-extender-c6a
   updatedAt: '2026-08-30T03:51:23.170Z'
+UACC-Cable-Extender-C6A-S:
+  model: UACC-Cable-Extender-C6A-S
+  productName: UACC-Cable-Extender-C6A
+  productTitle: Easy Cable
+  productDescription: >-
+    Shielded, ultra-thin extension cable with a waterproof cap, designed for tight spaces and last-inch reach
+    installations.
+  productId: 52267163-c631-4b5f-b004-7dcf38953fe2
+  noInTheBoxImage: true
+  urls:
+    - https://store.ui.com/us/en/category/accessories-cables-dacs/products/uacc-cable-extender-c6a?variant=uacc-cable-extender-c6a-s
+  updatedAt: '2026-10-30T17:03:45.453Z'
 UACC-Cable-IR-Blaster:
   model: UACC-Cable-IR-Blaster
   productName: UACC-Cable-IR-Blaster
@@ -3476,7 +3488,7 @@ UACC-Camera-AM-B:
   model: UACC-Camera-AM-B
   productName: UACC-Camera-AM
   productTitle: Camera Arm Mount
-  productDescription: Arm mount accessory that attaches the UniFi Turret cameras to a wall, corner, or pole.
+  productDescription: Arm mount accessory that attaches the UniFi Turret and Dome cameras to a wall, corner, or pole.
   productId: b90efd2d-c3e7-401d-91df-2060034cb4fc
   image:
     originUrl: https://cdn.ecomm.ui.com/products/b90efd2d-c3e7-401d-91df-2060034cb4fc/5acfd69b-2fd7-4510-9816-8861280800f3.png
@@ -3489,7 +3501,7 @@ UACC-Camera-AM-W:
   model: UACC-Camera-AM-W
   productName: UACC-Camera-AM
   productTitle: Camera Arm Mount
-  productDescription: Arm mount accessory that attaches the UniFi Turret cameras to a wall, corner, or pole.
+  productDescription: Arm mount accessory that attaches the UniFi Turret and Dome cameras to a wall, corner, or pole.
   productId: b90efd2d-c3e7-401d-91df-2060034cb4fc
   image:
     originUrl: https://cdn.ecomm.ui.com/products/b90efd2d-c3e7-401d-91df-2060034cb4fc/34592d10-0722-4821-aef1-5b0ad3c5b78a.png
