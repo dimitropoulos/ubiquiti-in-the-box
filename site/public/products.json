@@ -1793,6 +1793,28 @@
     "url": "https://store.ui.com/us/en/category/accessories-installations/products/uacc-cr?variant=uacc-crs"
   },
   {
+    "model": "UACC-Camera-AJB-B",
+    "name": "Camera Angle Junction Box",
+    "description": "Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras, featuring a 30° tilt angle for greater mounting flexibility, enhanced durability, improved aesthetics, and easier maintenance.",
+    "image": "/images/uacc-camera-ajb-b.png",
+    "pdfImage": "/images/uacc-camera-ajb-b.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-ajb?variant=uacc-camera-ajb-b"
+  },
+  {
+    "model": "UACC-Camera-AJB-W",
+    "name": "Camera Angle Junction Box",
+    "description": "Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras, featuring a 30° tilt angle for greater mounting flexibility, enhanced durability, improved aesthetics, and easier maintenance.",
+    "image": "/images/uacc-camera-ajb-w.png",
+    "pdfImage": "/images/uacc-camera-ajb-w.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-ajb?variant=uacc-camera-ajb-w"
+  },
+  {
     "model": "UACC-Camera-AM-B",
     "name": "Camera Arm Mount",
     "description": "Arm mount accessory that attaches the UniFi Turret and Dome cameras to a wall, corner, or pole.",

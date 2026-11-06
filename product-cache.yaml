@@ -3484,6 +3484,36 @@ UACC-Cable-USB-100W-2M-BK:
   urls:
     - https://store.ui.com/us/en/category/accessories-poe-power/products/uacc-cable-usb-100w?variant=uacc-cable-usb-100w-2m-bk
   updatedAt: '2026-08-30T03:51:33.904Z'
+UACC-Camera-AJB-B:
+  model: UACC-Camera-AJB-B
+  productName: UACC-Camera-AJB
+  productTitle: Camera Angle Junction Box
+  productDescription: >-
+    Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras, featuring a 30° tilt angle for greater
+    mounting flexibility, enhanced durability, improved aesthetics, and easier maintenance.
+  productId: f6bdb1d8-8dee-4db4-8fe4-dc533151deb9
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/f6bdb1d8-8dee-4db4-8fe4-dc533151deb9/cb9f4b6b-d546-46f5-9c3f-0653e9b584ae.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-ajb?variant=uacc-camera-ajb-b
+  updatedAt: '2026-11-06T17:14:25.333Z'
+UACC-Camera-AJB-W:
+  model: UACC-Camera-AJB-W
+  productName: UACC-Camera-AJB
+  productTitle: Camera Angle Junction Box
+  productDescription: >-
+    Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras, featuring a 30° tilt angle for greater
+    mounting flexibility, enhanced durability, improved aesthetics, and easier maintenance.
+  productId: f6bdb1d8-8dee-4db4-8fe4-dc533151deb9
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/f6bdb1d8-8dee-4db4-8fe4-dc533151deb9/f0928709-d6f9-4f57-9c45-afb3d789ec8e.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/physical-security-accessories/products/uacc-camera-ajb?variant=uacc-camera-ajb-w
+  updatedAt: '2026-11-06T17:14:26.341Z'
 UACC-Camera-AM-B:
   model: UACC-Camera-AM-B
   productName: UACC-Camera-AM
