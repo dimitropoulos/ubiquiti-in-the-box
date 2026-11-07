@@ -3543,7 +3543,7 @@ UACC-Camera-AM-W:
 UACC-Camera-CJB-B:
   model: UACC-Camera-CJB-B
   productName: UACC-Camera-CJB
-  productTitle: Camera Compact Junction Box (Vintage)
+  productTitle: Camera Compact Junction Box (Gen1)
   productDescription: >-
     Tamper-resistant junction box for compact UniFi Dome and Turret cameras that enhances mounting durability,
     aesthetics, and ease of maintenance.
@@ -3558,7 +3558,7 @@ UACC-Camera-CJB-B:
 UACC-Camera-CJB-W:
   model: UACC-Camera-CJB-W
   productName: UACC-Camera-CJB
-  productTitle: Camera Compact Junction Box (Vintage)
+  productTitle: Camera Compact Junction Box (Gen1)
   productDescription: >-
     Tamper-resistant junction box for compact UniFi Dome and Turret cameras that enhances mounting durability,
     aesthetics, and ease of maintenance.
@@ -3603,7 +3603,7 @@ UACC-Camera-DM-W:
 UACC-Camera-JB-B:
   model: UACC-Camera-JB-B
   productName: UACC-Camera-JB
-  productTitle: Camera Junction Box (Vintage)
+  productTitle: Camera Junction Box (Gen1)
   productDescription: >-
     Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability,
     aesthetics, and ease of maintenance.
@@ -3618,7 +3618,7 @@ UACC-Camera-JB-B:
 UACC-Camera-JB-W:
   model: UACC-Camera-JB-W
   productName: UACC-Camera-JB
-  productTitle: Camera Junction Box (Vintage)
+  productTitle: Camera Junction Box (Gen1)
   productDescription: >-
     Tamper-resistant junction box for UniFi Bullet, Dome, and Turret cameras that enhances mounting durability,
     aesthetics, and ease of maintenance.
