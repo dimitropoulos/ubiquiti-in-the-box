@@ -3575,6 +3575,28 @@
     "url": "https://store.ui.com/us/en/category/door-access-readers/products/ua-g3-fingerprint?variant=ua-g3-fingerprint-w"
   },
   {
+    "model": "UA-G3-Flex-B",
+    "name": "G3 Reader Flex",
+    "description": "Third-generation NFC card reader with a keypad and Touch Pass support.",
+    "image": "/images/ua-g3-flex-b.png",
+    "pdfImage": "/images/ua-g3-flex-b.png",
+    "width": 1500,
+    "height": 862,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/door-access-readers/products/ua-g3-flex?variant=ua-g3-flex-b"
+  },
+  {
+    "model": "UA-G3-Flex-W",
+    "name": "G3 Reader Flex",
+    "description": "Third-generation NFC card reader with a keypad and Touch Pass support.",
+    "image": "/images/ua-g3-flex-w.png",
+    "pdfImage": "/images/ua-g3-flex-w.png",
+    "width": 1500,
+    "height": 862,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/door-access-readers/products/ua-g3-flex?variant=ua-g3-flex-w"
+  },
+  {
     "model": "UA-G3-Pro-B",
     "name": "G3 Reader Pro",
     "description": "Third-generation, indoor/outdoor NFC reader and intercom with Touch Pass support.",
@@ -6477,28 +6499,6 @@
     "height": 0,
     "noImage": true,
     "url": "https://store.ui.com/us/en/category/accessories-rack-mount/products/uacc-rack-panel-ocd?variant=uacc-rack-panel-vented-2u"
-  },
-  {
-    "model": "UA-G3-Flex-B",
-    "name": "Reader Flex",
-    "description": "Third-generation NFC card reader with a keypad and Touch Pass support.",
-    "image": "/images/ua-g3-flex-b.png",
-    "pdfImage": "/images/ua-g3-flex-b.png",
-    "width": 1500,
-    "height": 862,
-    "noImage": false,
-    "url": "https://store.ui.com/us/en/category/door-access-readers/products/ua-g3-flex?variant=ua-g3-flex-b"
-  },
-  {
-    "model": "UA-G3-Flex-W",
-    "name": "Reader Flex",
-    "description": "Third-generation NFC card reader with a keypad and Touch Pass support.",
-    "image": "/images/ua-g3-flex-w.png",
-    "pdfImage": "/images/ua-g3-flex-w.png",
-    "width": 1500,
-    "height": 862,
-    "noImage": false,
-    "url": "https://store.ui.com/us/en/category/door-access-readers/products/ua-g3-flex?variant=ua-g3-flex-w"
   },
   {
     "model": "UACC-Reader-JB-B",

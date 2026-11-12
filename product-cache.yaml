@@ -1255,7 +1255,7 @@ UA-G3-Fingerprint-W:
 UA-G3-Flex-B:
   model: UA-G3-Flex-B
   productName: UA-G3-Flex
-  productTitle: Reader Flex
+  productTitle: G3 Reader Flex
   productDescription: Third-generation NFC card reader with a keypad and Touch Pass support.
   productId: 21cddd36-86bb-4001-b9c5-cb501a509688
   image:
@@ -1268,7 +1268,7 @@ UA-G3-Flex-B:
 UA-G3-Flex-W:
   model: UA-G3-Flex-W
   productName: UA-G3-Flex
-  productTitle: Reader Flex
+  productTitle: G3 Reader Flex
   productDescription: Third-generation NFC card reader with a keypad and Touch Pass support.
   productId: 21cddd36-86bb-4001-b9c5-cb501a509688
   image:
