@@ -550,6 +550,17 @@
     "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/1-gbps-bidirectional-single-mode-optical-module?variant=uacc-om-sm-1g-s-20"
   },
   {
+    "model": "UACC-OM-SM-1G-S-I-2",
+    "name": "1G Bidirectional Single-Mode Optical Module Industrial",
+    "description": "Industrial SFP transceiver that supports 1G connections up to 20 km over single-mode fiber with a simplex LC UPC connector and -40 to 85°C operating temperature.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-om-sm-1g-s-i?variant=uacc-om-sm-1g-s-i-2"
+  },
+  {
     "model": "UACC-OM-MM-1G-D",
     "name": "1G Multi-Mode Optical Module",
     "description": "SFP transceiver that supports 1G connections up to 550 m using multi-mode fiber with a duplex LC UPC connector.",
@@ -581,6 +592,50 @@
     "height": 0,
     "noImage": true,
     "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/1-gbps-multi-mode-optical-module?variant=uacc-om-mm-1g-d-20"
+  },
+  {
+    "model": "UACC-OM-MM-1G-D-I",
+    "name": "1G Multi-Mode Optical Modules Industrial",
+    "description": "Industrial SFP transceiver that supports 1G connections up to 550 m over multi-mode fiber with a duplex LC UPC connector and -40 to 85°C operating temperature.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-om-mm-1g-d-i?variant=uacc-om-mm-1g-d-i"
+  },
+  {
+    "model": "UACC-OM-MM-1G-D-I-2",
+    "name": "1G Multi-Mode Optical Modules Industrial",
+    "description": "Industrial SFP transceiver that supports 1G connections up to 550 m over multi-mode fiber with a duplex LC UPC connector and -40 to 85°C operating temperature.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-om-mm-1g-d-i?variant=uacc-om-mm-1g-d-i-2"
+  },
+  {
+    "model": "UACC-OM-SM-1G-D-I",
+    "name": "1G Single-Mode Optical Module Industrial",
+    "description": "Industrial SFP transceiver that supports 1G connections up to 20 km over single-mode fiber with a duplex LC UPC connector and -40 to 85°C operating temperature.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-om-sm-1g-d-i?variant=uacc-om-sm-1g-d-i"
+  },
+  {
+    "model": "UACC-OM-SM-1G-D-I-2",
+    "name": "1G Single-Mode Optical Module Industrial",
+    "description": "Industrial SFP transceiver that supports 1G connections up to 20 km over single-mode fiber with a duplex LC UPC connector and -40 to 85°C operating temperature.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-om-sm-1g-d-i?variant=uacc-om-sm-1g-d-i-2"
   },
   {
     "model": "UACC-SSD-2.5-1TB",
