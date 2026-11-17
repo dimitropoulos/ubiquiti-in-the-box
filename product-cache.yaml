@@ -1099,6 +1099,16 @@ UA-Button:
   urls:
     - https://store.ui.com/us/en/category/door-access-accessories/products/ua-button?variant=ua-button
   updatedAt: '2026-08-30T03:51:15.440Z'
+UA-Card-B-10:
+  model: UA-Card-B-10
+  productName: UA-Card
+  productTitle: Access Card
+  productDescription: A pack of highly-secure NFC cards used for access control within UniFi.
+  productId: 97096bd0-462e-4ee4-b0e5-21fa3cce285e
+  noInTheBoxImage: true
+  urls:
+    - https://store.ui.com/us/en/category/door-access-accessories/products/ua-card?variant=ua-card-b-10
+  updatedAt: '2026-11-17T17:04:11.337Z'
 UA-Card-B-10-US:
   model: UA-Card-B-10-US
   productName: UA-Card

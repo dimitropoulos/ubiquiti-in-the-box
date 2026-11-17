@@ -913,6 +913,17 @@
     "url": "https://store.ui.com/us/en/category/door-access-accessories/products/ua-button?variant=ua-button"
   },
   {
+    "model": "UA-Card-B-10",
+    "name": "Access Card",
+    "description": "A pack of highly-secure NFC cards used for access control within UniFi.",
+    "image": null,
+    "pdfImage": null,
+    "width": 0,
+    "height": 0,
+    "noImage": true,
+    "url": "https://store.ui.com/us/en/category/door-access-accessories/products/ua-card?variant=ua-card-b-10"
+  },
+  {
     "model": "UA-Card-B-10-US",
     "name": "Access Card",
     "description": "A pack of highly-secure NFC cards used for access control within UniFi.",
