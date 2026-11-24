@@ -7293,6 +7293,28 @@
     "url": "https://store.ui.com/us/en/category/wifi-outdoor/products/u7-mesh?variant=u7-mesh-us"
   },
   {
+    "model": "U7-Mesh-Wall-US",
+    "name": "U7 Mesh Wall",
+    "description": "Easy-to-deploy WiFi 7 access point that automatically extends UniFi coverage without network cabling and fits a standard wall outlet.",
+    "image": "/images/u7-mesh-wall-us.png",
+    "pdfImage": "/images/u7-mesh-wall-us.png",
+    "width": 1500,
+    "height": 750,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/wifi-wall/products/u7-mesh-wall-us?variant=u7-mesh-wall-us"
+  },
+  {
+    "model": "UACC-U7-Mesh-Wall-Cover",
+    "name": "U7 Mesh Wall Paintable Cover",
+    "description": "Cover for U7 Mesh Wall that can be painted for a customized appearance.",
+    "image": "/images/uacc-u7-mesh-wall-cover.png",
+    "pdfImage": "/images/uacc-u7-mesh-wall-cover.png",
+    "width": 1500,
+    "height": 600,
+    "noImage": false,
+    "url": "https://store.ui.com/us/en/category/accessories-access-point/products/uacc-u7-mesh-wall-cover?variant=uacc-u7-mesh-wall-cover"
+  },
+  {
     "model": "U7-Outdoor-US",
     "name": "U7 Outdoor",
     "description": "All-weather WiFi 7 AP with 4 spatial streams, an integrated directional super antenna, and versatile mounting options.",

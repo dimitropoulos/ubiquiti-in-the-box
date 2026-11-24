@@ -931,6 +931,21 @@ U7-Mesh-US:
   urls:
     - https://store.ui.com/us/en/category/wifi-outdoor/products/u7-mesh?variant=u7-mesh-us
   updatedAt: '2026-08-30T03:50:39.008Z'
+U7-Mesh-Wall-US:
+  model: U7-Mesh-Wall-US
+  productName: U7-Mesh-Wall-US
+  productTitle: U7 Mesh Wall
+  productDescription: >-
+    Easy-to-deploy WiFi 7 access point that automatically extends UniFi coverage without network cabling and fits a
+    standard wall outlet.
+  productId: e6ba8075-cf70-48df-bc01-6c03cc1eadd7
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/e6ba8075-cf70-48df-bc01-6c03cc1eadd7/3a64dd4e-cfeb-4d79-b7a7-83c4eb46830f.png
+    width: 1500
+    height: 750
+  urls:
+    - https://store.ui.com/us/en/category/wifi-wall/products/u7-mesh-wall-us?variant=u7-mesh-wall-us
+  updatedAt: '2026-11-24T17:04:26.430Z'
 U7-Outdoor-US:
   model: U7-Outdoor-US
   productName: U7-Outdoor
@@ -6731,6 +6746,19 @@ UACC-U7-Cover:
   urls:
     - https://store.ui.com/us/en/category/accessories-access-point/products/uacc-u7-cover?variant=uacc-u7-cover
   updatedAt: '2026-08-30T03:51:35.665Z'
+UACC-U7-Mesh-Wall-Cover:
+  model: UACC-U7-Mesh-Wall-Cover
+  productName: UACC-U7-Mesh-Wall-Cover
+  productTitle: U7 Mesh Wall Paintable Cover
+  productDescription: Cover for U7 Mesh Wall that can be painted for a customized appearance.
+  productId: 2564235a-0035-450a-808d-69ef2ae5a732
+  image:
+    originUrl: https://cdn.ecomm.ui.com/products/2564235a-0035-450a-808d-69ef2ae5a732/cffd1084-58d3-4b75-85d4-d1d454eb48d8.png
+    width: 1500
+    height: 600
+  urls:
+    - https://store.ui.com/us/en/category/accessories-access-point/products/uacc-u7-mesh-wall-cover?variant=uacc-u7-mesh-wall-cover
+  updatedAt: '2026-11-24T17:04:43.150Z'
 UACC-U7-Pro-Wall-Cover:
   model: UACC-U7-Pro-Wall-Cover
   productName: UACC-U7-Pro-Wall-Cover
