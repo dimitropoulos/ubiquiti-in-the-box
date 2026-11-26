@@ -3758,6 +3758,16 @@ UACC-CM-RJ45-MG:
   urls:
     - https://store.ui.com/us/en/category/accessories-modules-fiber/products/uacc-cm-rj45-mg?variant=uacc-cm-rj45-mg
   updatedAt: '2026-08-30T03:51:24.349Z'
+UACC-ControlPad-TS:
+  model: UACC-ControlPad-TS
+  productName: UACC-Intercom-Viewer-TS
+  productTitle: Intercom Viewer Table Stand
+  productDescription: Metal table stand for Intercom Viewer.
+  productId: 6cb9f1b9-7cad-4475-a46b-85bd937e0376
+  noInTheBoxImage: true
+  urls:
+    - https://store.ui.com/us/en/category/door-access-accessories/products/uacc-intercom-viewer-ts?variant=uacc-controlpad-ts
+  updatedAt: '2026-11-26T17:03:39.107Z'
 UACC-CRB:
   model: UACC-CRB
   productName: UACC-CR
